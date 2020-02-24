@@ -1,0 +1,11 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+A cooperative blog for publishing German posts for reading.
+
+Hosted on GitHub.
+
+Happy to recieve cooperative requests.
