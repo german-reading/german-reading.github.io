@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "Virologe: Behörden in Europa reagieren zu gemächlich"
+date:   2020-02-25 00:00:00 +0100
+categories: Interview
+---
+
+- Reihe: Lungenkrankheit Covid 19
+- Sprachniveau: B2
+
+Gesundheitsminister Jens Spahn habe den Ernst der Lage nicht früh genug erkannt, sagte Virologe Alexander Kekulé im Dlf. Seine Behörden würden das Coronavirus immer noch harmloser als die Grippe darstellen. Das Virus sei aber für den Infizierten zehn Mal gefährlicher als eine Grippe-Infektion.
+
+Alexander Kekulé im Gespräch mit Christine Heuer
+
+    Virologe
+    : m  -n  -n  病毒专家
+
+    Behörden
+    : Behörde
+    :  f  -, -n  官方, 当局
+
+    gemächlich
+    : Adj 从容的
+
+    @Redemittel
+    : den Ernst der Lage
+    : im Dlf
+    : für den Infizierten gefährlich sein
+
+
+![In Italien stieg die Zahl der Infektionen sprunghaft an, es gibt erste Todesopfer (doa / LaPresse via ZUMA Press / Claudio Furlan)](https://www.deutschlandfunk.de/media/thumbs/e/e20d8c8e7c9871992c3db708d218ea84v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg?key=944438)
+
+
+Nirgendwo in Europa hat das Coronavirus so viele Menschen angesteckt wie in Italien, jedenfalls nach heutigem Kenntnisstand, und Rom reagiert entschieden auf die galoppierende Infektion. Dort, wo die Krankheitsfälle sich häufen, im Norden des Landes, hat die Regierung eine rote Zone eingerichtet, das Sperrgebiet wird nach dem Modell Wuhan kategorisch abgeriegelt.
+
+    anstecken
+    : Vt   (疾病) 传染给
+
+    jedenfalls
+    : Adv 无论如何
+
+    entschieden
+    : Adj 坚决的
+
+    galoppierende
+    : galoppieren
+    : Vi  (h/ s) (马)疾驰, 奔驰
+
+    häufen
+    : V refl  积累, 增加
+
+    eingerichtet
+    : einrichten
+    : Vt 设立
+
+    Sperrgebiet
+    : n  隔离区
+
+    kategorisch
+    : Adj  绝对的, 无条件的
+
+    abgeriegelt
+    : abriegeln
+    : Vt 封锁
+
+    @Redemittel
+    : nach heutigem Kenntnisstand
+    : auf etwas reagieren
+    : nach dem Modell kategorisch abgeriegelt
+
+
+Alexander Kekulé ist Virologe an der Uniklinikum Halle und Direktor am Institut für medizinische Mikrobiologie. Im Dlf-Interview kritisiert er, dass die die deutschen Behörden das Coronavirus immer noch harmloser als die Grippe darstellen würden.
+
+
+Der Volle Beitrag: <https://www.deutschlandfunk.de/lungenkrankheit-covid-19-virologe-behoerden-in-europa.694.de.html?dram:article_id=471021>

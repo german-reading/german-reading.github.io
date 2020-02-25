@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The Null Post!"
+title:  "The Null!"
 date:   2020-02-24 21:14:35 +0100
-categories: jekyll update
+categories: Administration
 ---
 
-In Deutschen, Null heißt auch 0. 0 ist der Anfang von allem.
+In Deutschen, Null heißt auch 0. 0 ist der Anfang vor allem.
 
 
 ## Guide for Cooperation
