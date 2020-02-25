@@ -2,7 +2,7 @@
 layout: post
 title:  "Virologe: Behörden in Europa reagieren zu gemächlich"
 date:   2020-02-25 00:00:00 +0100
-categories: Interview
+categories: [中文, Interview]
 ---
 
 - Reihe: Lungenkrankheit Covid 19
