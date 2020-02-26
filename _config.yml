@@ -27,6 +27,7 @@ url: "https://reading.german.johannhuang.com/" # the base hostname & protocol fo
 markdown: kramdown
 # twitter_username: johannhuang_com
 github_username:  johannhuang
+telegram_username: johannhuang
 
 disqus:
   shortname: johannhuang-german-reading

@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Virologe: Behörden in Europa reagieren zu gemächlich"
-date:   2020-02-25 00:00:00 +0100
+date:   2020-02-25 00:12:00 +0100
 categories: [中文, Interview]
 ---
 
+- Quelle: Deutschlandfunk
 - Reihe: Lungenkrankheit Covid 19
 - Sprachniveau: B2
 
@@ -72,4 +73,4 @@ Nirgendwo in Europa hat das Coronavirus so viele Menschen angesteckt wie in Ital
 Alexander Kekulé ist Virologe an der Uniklinikum Halle und Direktor am Institut für medizinische Mikrobiologie. Im Dlf-Interview kritisiert er, dass die die deutschen Behörden das Coronavirus immer noch harmloser als die Grippe darstellen würden.
 
 
-Der Volle Beitrag: <https://www.deutschlandfunk.de/lungenkrankheit-covid-19-virologe-behoerden-in-europa.694.de.html?dram:article_id=471021>
+Der Volle Beitrag befindet sich an <https://www.deutschlandfunk.de/lungenkrankheit-covid-19-virologe-behoerden-in-europa.694.de.html?dram:article_id=471021>.
