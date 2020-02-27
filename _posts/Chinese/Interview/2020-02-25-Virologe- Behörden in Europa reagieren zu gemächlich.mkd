@@ -1,8 +1,8 @@
 ---
 layout: post
+date:   2020-02-25 12:00:00 +0100
 title:  "Virologe: Behörden in Europa reagieren zu gemächlich"
 highlights: "Lungenkrankheit Covid 19"
-date:   2020-02-25 00:12:00 +0100
 categories: [中文, Interview]
 ---
 

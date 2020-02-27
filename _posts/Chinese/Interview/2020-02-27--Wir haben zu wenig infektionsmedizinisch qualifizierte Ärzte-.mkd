@@ -1,8 +1,8 @@
 ---
 layout: post
+date:   2020-02-27 12:00:00 +0100
 title:  "„Wir haben zu wenig infektionsmedizinisch qualifizierte Ärzte“"
 highlights: "FDP-Gesundheitspolitiker Ullmann"
-date:   2020-02-27 00:12:00 +0100
 categories: [中文, Interview]
 ---
 
