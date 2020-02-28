@@ -10,6 +10,7 @@ categories: [中文, Interview]
 - Kommentator: [Johann Huang](http://www.johannhuang.com/)
 - Sprachniveau: B2
 
+
 Der FDP-Politiker und Arzt Andrew Ullmann hat angesichts der Ausbreitung des Coronavirus auf einen Mangel an infektionsmedizinischer Kompetenz in Deutschland hingewiesen. Mit Blick auf zukünftige Epidemien müsse ein Facharzt für Infektiologie eingeführt werden, sagte Ullmann im Dlf.
 
 Andrew Ullmann im Gespräch mit Dirk Müller

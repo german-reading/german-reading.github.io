@@ -10,6 +10,7 @@ categories: [中文, Interview]
 - Kommentator: [Johann Huang](http://www.johannhuang.com/)
 - Sprachniveau: B2
 
+
 Gesundheitsminister Jens Spahn habe den Ernst der Lage nicht früh genug erkannt, sagte Virologe Alexander Kekulé im Dlf. Seine Behörden würden das Coronavirus immer noch harmloser als die Grippe darstellen. Das Virus sei aber für den Infizierten zehn Mal gefährlicher als eine Grippe-Infektion.
 
 Alexander Kekulé im Gespräch mit Christine Heuer

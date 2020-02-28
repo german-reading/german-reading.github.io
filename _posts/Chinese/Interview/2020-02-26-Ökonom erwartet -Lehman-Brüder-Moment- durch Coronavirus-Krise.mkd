@@ -10,6 +10,7 @@ categories: [中文, Interview]
 - Kommentator: [Johann Huang](http://www.johannhuang.com/)
 - Sprachniveau: B2
 
+
 Die Störungen der Weltwirtschaft durch das Coronavirus werden nach Ansicht des Ökonoms Gabriel Felbermayr zu einem ähnlichen Umdenken führen wie 2008 die Lehman-Brothers-Pleite. Globale Lieferketten seien nicht so robust wie angenommen, sagte der Chef des Kieler Instituts für Weltwirtschaft im Dlf.
 
 Gabriel Felbermayr im Gespräch mit Jörg Münchenberg
