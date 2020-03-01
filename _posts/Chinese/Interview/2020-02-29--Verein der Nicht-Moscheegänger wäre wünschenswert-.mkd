@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2020-02-28 12:00:00 +0100
+date:   2020-02-29 12:00:00 +0100
 title:  "„Verein der Nicht-Moscheegänger wäre wünschenswert“"
 highlights: "Muslime in Deutschland"
 categories: [中文, "Interview"]
