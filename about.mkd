@@ -6,7 +6,7 @@ permalink: /about/
 
 A cooperative blog for publishing German posts for reading.
 
-Hosted on GitHub.
+Hosted as [Repository on GitHub](https://github.com/johannhuang/reading.german.johannhuang.com).
 
 Happy to recieve cooperative requests.
 
