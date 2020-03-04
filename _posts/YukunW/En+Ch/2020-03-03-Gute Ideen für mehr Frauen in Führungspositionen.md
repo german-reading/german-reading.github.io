@@ -8,11 +8,13 @@ categories: [中文, "Interview"]
 
 
 
-28.02.2020
+02.03.2020
 
 * Quelle: https://www.deutschlandfunk.de/alternativen-zur-frauenquote-gute-ideen-fuer-mehr-frauen-in.680.de.html?dram:article_id=471097
-* Kommentator: Yukun WANG
+* Kommentator: Yukun Wang
 * Sprachniveau: B2
+
+# Gute Ideen für mehr Frauen in Führungspositionen
 
 *Muss es immer Quote sein? Oder gibt es andere Wege, um mehr Frauen in Führungspositionen zu bringen? „Campus und Karriere“ stellt vier Rezepte zur Frauenförderung vor – und schaut sich an, wie gut sie wirken.*
 

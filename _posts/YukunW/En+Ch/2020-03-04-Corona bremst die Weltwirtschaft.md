@@ -5,6 +5,16 @@ title:  "Corona bremst die Weltwirtschaft"
 highlights: "Corona Virus"
 categories: [中文, "Interview"]
 ---
+
+
+04.03.2020
+
+* Quelle: https://www.deutschlandfunk.de/oecd-warnung-corona-bremst-die-weltwirtschaft.766.de.html?dram:article_id=471472
+* Kommentator: Yukun Wang
+* Sprachniveur: B2
+
+# Corona bremst die Weltwirtschaft
+
 ***Lieferketten** sind unterbrochen, der Tourismus **geht zurück**: Das Coronavirus trifft auch die Wirtschaft. Die Industriestaaten-Organisation OECD hat nun ihre Erwartungen für die weltweite Wirtschaftsentwicklung nach unten korrigiert. Sie **rechnet** nur noch **mit** einem globalen Wachstum von 2,4 Prozent.*
 
 ![China, Qingdao: Containerschiffe liegen am nächtlich beleuchteten Containerterminal des Hafens von Qingdao.  (picture alliance / Yu Fangping)](https://www.deutschlandfunk.de/media/thumbs/0/021d1b30b89debb0e400f07bdb59822ev1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg?key=9edbee)
