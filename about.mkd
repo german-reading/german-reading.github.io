@@ -6,7 +6,7 @@ permalink: /about/
 
 A cooperative blog for publishing German posts for reading.
 
-Hosted on GitHub.
+Hosted as [Repository on GitHub](https://github.com/johannhuang/reading.german.johannhuang.com).
 
 Happy to recieve cooperative requests.
 
@@ -19,4 +19,4 @@ Happy to recieve cooperative requests.
 
 很欢迎对于德语内容批注有兴趣的朋友加入我们。
 
-![QQ Group - German](/assets/img/qq_group_german.jpg){: height="49.5%" width="49.5%"} ![Weixin - johannhuang](/assets/img/wechat_person_johannhuang.jpg){: height="49.5%" width="49.5%"}
+![QQ Group - German](/assets/img/qq_group_german.jpg){: height="49%" width="49%"} ![Weixin - johannhuang](/assets/img/wechat_person_johannhuang.jpg){: height="49%" width="49%"}

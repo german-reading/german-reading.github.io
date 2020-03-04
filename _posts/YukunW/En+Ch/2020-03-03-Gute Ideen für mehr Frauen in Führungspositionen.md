@@ -1,4 +1,12 @@
-# Gute Ideen für mehr Frauen in Führungspositionen
+---
+layout: post
+date:   2020-03-03 12:00:00 +0800
+title:  "Gute Ideen für mehr Frauen in Führungspositionen"
+highlights: "Gleichberechtigung"
+categories: [中文, "Interview"]
+---
+
+
 
 28.02.2020
 
