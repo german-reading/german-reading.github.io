@@ -1,5 +1,14 @@
 # Corona bremst die Weltwirtschaft
 
+---
+layout: post
+date:   2020-03-04 21:00:00 +0800
+title:  "Corona bremst die Weltwirtschaft"
+highlights: "Corona Virus"
+
+categories: [中文, "Interview"]
+
+---
 ***Lieferketten** sind unterbrochen, der Tourismus **geht zurück**: Das Coronavirus trifft auch die Wirtschaft. Die Industriestaaten-Organisation OECD hat nun ihre Erwartungen für die weltweite Wirtschaftsentwicklung nach unten korrigiert. Sie **rechnet** nur noch **mit** einem globalen Wachstum von 2,4 Prozent.*
 
 ![China, Qingdao: Containerschiffe liegen am nächtlich beleuchteten Containerterminal des Hafens von Qingdao.  (picture alliance / Yu Fangping)](https://www.deutschlandfunk.de/media/thumbs/0/021d1b30b89debb0e400f07bdb59822ev1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg?key=9edbee)
