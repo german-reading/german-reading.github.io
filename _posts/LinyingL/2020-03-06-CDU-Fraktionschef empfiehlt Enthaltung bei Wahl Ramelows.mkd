@@ -12,25 +12,25 @@ categories: [中文, "Politik"]
 
 Die Thüringer CDU-Fraktion soll sich ihrem Vorsitzenden zufolge bei der Wahl zum Ministerpräsidenten an diesem Mittwoch im Landtag der Stimme enthalten. "Ich werde meiner Fraktion Enthaltung in allen 3 Wahlgängen empfehlen", schriebt Mario Voigt auf Twitter. "Wir werden uns an die vereinbarten parlamentarischen Verfahrensregeln halten, damit auch in einem Landtag ohne Regierungsmehrheit die politische #Stabilität gewahrt und zentrale Aufgaben erledigt werden können." Dieses Verfahren entspräche der "staatspolitischen Verantwortung" der CDU und zugleich verstoße die Fraktion damit nicht gegen "politische Grundüberzeugungen". Ein Bundesparteibeschluss der CDU verbietet die Zusammenarbeit mit der Linken sowie der AfD.
 
-    ## Wörter-Tabelle
-
+    @Wörter-Tabelle
     Fraktion: 党团，特指议会内所有同党派议员组成的小团体。
     Ministerpräsident: 州总理。
     Enthalten: 在投票表决中特指弃权。
     Landtag: 州议会。
 
-    ## Kommentare 
-
+    @Kommentare 
     in allen 3 Wahlgängen: 根据图林根州州宪法规定，州总理通过最多三次州议员表决产生，其中，第一次和第二次需要所有议员的多数，即过半票数，如果前两次均未有人过半，则第三次表决中得到最多票数的候选人当选。即absolute Mehrheit 和 einfache Mehrheit。这个规定与联邦层面的总理选举程序大致相同，但是后者多了总统参与。
     Regierungsmehrheit: 执政多数，一般指代执政党或者执政联盟Koalition , 这里Mario的意思是我们CDU弃权也是符合程序法的，即使前两个回合没有人票数过半，最后没有党团（Linke或AFD）拿到执政多数，政治的稳定性也会被确保。
     Politische Überzeugung: 政治信念，CDU与SPD以及AFD理念不同，所以两不相帮。弃权是符合CDU的国家政治义务的，没有违反CDU的理念。
     Bundesparteibeschluss： CDU联邦代表大会的委员会。
 
-    Im Landtag will sich heute ab 14 Uhr der Linken-Politiker Bodo Ramelow zur Wahl als Ministerpräsident stellen. Für die AfD hatte vor wenigen Tagen der Fraktionsvorsitzende Björn Höcke seine Gegenkandidatur angekündigt.
+
+Im Landtag will sich heute ab 14 Uhr der Linken-Politiker Bodo Ramelow zur Wahl als Ministerpräsident stellen. Für die AfD hatte vor wenigen Tagen der Fraktionsvorsitzende Björn Höcke seine Gegenkandidatur angekündigt.
 
     Gegenkandidatur: 竞争对手
 
-    Eigentlich hatte Ramelow geplant, im ersten Wahlgang gewählt zu werden. Dafür hätte er aber – wie auch im zweiten Wahlgang – die absolute Mehrheit von 46 Stimmen im Erfurter Landtag gebraucht. Die von Ramelow angestrebte rot-rot-grüne Minderheitsregierung verfügt aber nur über 42 Sitze im Parlament, weshalb er im ersten Wahlgang auf Stimmen der CDU oder der FDP angewiesen wäre – was in beiden Fraktionen aber auf Widerstand stieß. Die FDP-Fraktion hatte am Dienstag dann sogar angekündigt, bei der Abstimmung den Plenarsaal verlassen zu wollen, weil man weder für Ramelow noch für Höcke stimmen wolle und Nein-Stimmen bei zwei Kandidaten nicht vorgesehen seien.
+
+Eigentlich hatte Ramelow geplant, im ersten Wahlgang gewählt zu werden. Dafür hätte er aber – wie auch im zweiten Wahlgang – die absolute Mehrheit von 46 Stimmen im Erfurter Landtag gebraucht. Die von Ramelow angestrebte rot-rot-grüne Minderheitsregierung verfügt aber nur über 42 Sitze im Parlament, weshalb er im ersten Wahlgang auf Stimmen der CDU oder der FDP angewiesen wäre – was in beiden Fraktionen aber auf Widerstand stieß. Die FDP-Fraktion hatte am Dienstag dann sogar angekündigt, bei der Abstimmung den Plenarsaal verlassen zu wollen, weil man weder für Ramelow noch für Höcke stimmen wolle und Nein-Stimmen bei zwei Kandidaten nicht vorgesehen seien.
 
     Erfurter Landtag 一共拥有90个席位，46票即过半。
     Rot-Rot-Grüne Regierung: SPD社会民主党，Die LINKE左翼联盟，Grüne绿党联合政府
