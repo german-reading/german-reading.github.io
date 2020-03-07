@@ -132,7 +132,7 @@ Carola Garbe und Catherine-Marie Koffnit **teilen sich die Verantwortung über**
 
   要求高的，昂贵（非准确理解义）
 
-* in ... Vorteil/Problem/... siehen
+* in ... Vorteil/Problem/... sehen
 
   （观点、看法等）常用表达
 
