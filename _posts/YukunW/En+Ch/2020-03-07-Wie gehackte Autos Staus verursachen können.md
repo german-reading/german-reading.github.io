@@ -14,7 +14,7 @@ categories: [中文, "Interview"]
 
 # Wie gehackte Autos Staus verursachen können
 
-*Viele Autos sind mit dem Internet verbunden, allein schon durchs Navigationssystem – und Hacker könnten im Extremfall das Auto komplett **lahmlegen**. Ein US-Forschungsteam hat einen virtuellen **Angriff** auf das Verkehrsnetz in der Großstadt simuliert. Und spricht Empfehlungen für die Verkehrsämter aus.*
+*Viele Autos sind mit dem Internet verbunden, allein schon durchs Navigationssystem – und Hacker könnten im Extremfall das Auto komplett **lahmlegen**. Ein US-Forschungsteam hat einen virtuellen **Angriff** auf das Verkehrsnetz in der Großstadt simuliert. Und **spricht Empfehlungen für** die Verkehrsämter **aus**.*
 
 ![Deutschlands schmutzigste Straße: Die Luftmessstation am Neckartor in Stuttgart. (imago / Arnulf Hettrich)](https://www.deutschlandfunk.de/media/thumbs/7/70c0d0fa71dfe9aed2aec074152a3aabv1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg?key=bab643)
 
