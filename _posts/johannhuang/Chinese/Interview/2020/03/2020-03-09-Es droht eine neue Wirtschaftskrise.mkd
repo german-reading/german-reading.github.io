@@ -1,0 +1,234 @@
+---
+layout: post
+date:   2020-03-09 12:00:00 +0100
+title:  "Es droht eine neue Wirtschaftskrise"
+topics: "Corona-Krise und Ölpreisschock"
+categories: [中文, "Kommentare und Themen der Woche"]
+---
+
+- Quelle: Deutschlandfunk
+- Kommentator: [Johann Huang](http://www.johannhuang.com/)
+- Sprachniveau: B2
+
+
+Während die Corona-Krise die Geschäftsmodelle vieler Unternehmen bedroht, ist an den Finanzmärkten auch noch ein Ölkrieg ausgebrochen. Politik und Zentralbanken müssten jetzt schnell und entschlossen reagieren, kommentiert Klemens Kindermann. Andernfalls drohe eine neue Wirtschaftskrise.
+
+Von Klemens Kindermann
+
+    droht
+    : drohen
+    : Vi  ① 恐吓, 威胁 ② 迫近, 面临⋯的危险
+
+    bedroht
+    : bedrohen
+    : Vt  威胁, 威吓
+
+    entschlossen
+    : Adj  坚定的, 坚决的, 果断的
+
+    @Redemittel
+    : an den Finazmärkten ein Ölkrieg ausbrechen
+    : Andernfalls ...
+
+
+![Der Ölpreis ist seit dem Wochenende um mehr als 30 Prozent abgestürzt (imago / Larry MacDougal)](https://www.deutschlandfunk.de/media/thumbs/4/435443d9bd3c5c02bec4949c74555a9bv1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg?key=5ca9f6)
+
+Wer in diesen Tagen sein Auto für den Arbeitsweg nutzt, um der Gefahr zu entgehen, sich im Pendler-Zug mit dem Coronavirus zu infizieren, wird nur mit den Achseln zucken: Denn der beispiellose Crash am Ölmarkt wird absehbar die Benzinpreise sinken lassen. Das spart Geld an der Zapfsäule. Ist doch gut so!
+
+    abgestürzt
+    : abstürzen
+    : Vi  (s) 坠落,坠毁
+
+    Pendler
+    : m. -s, - (在一段固定路线上)乘车上下班的人
+
+    Achseln
+    : Achsel
+    : f  -,-n  ① 肩膀 ②腋
+
+    zucken
+    : Vi  抽搐, 闪动, 颤动
+
+    beispiellose
+    : beispiellos
+    : Adj  无先例的, 史无前例的, 空前的
+
+    absehbar
+    : Adj  可以预见的
+
+    spart
+    : sparen
+    : I Vt  ①节省,节约 ② 储蓄, 储存 Ⅱ Vi  ① 节约 ②储蓄
+
+    Zapfsäule
+    : f. 分流泵, 加油塔
+
+    @Redemittel
+    : Der Ölpreis ist seit dem Wochenende um mehr als 30 Prozent abgestürzt.
+    : um der Gefahr zu entgehen
+    : im Pendler-Zug
+    : mit den Achseln zucken
+    : der beispiellose Crash am Ölmarkt
+    : die Benzinpreise sinken lassen
+    : das spart Geld
+
+
+Doch das ist zu kurz gedacht: Die heutigen Turbulenzen beim Öl haben die Finanzmärkte derart durcheinander gewirbelt, dass manche schon Zustände wie nach der Lehman-Krise kommen sehen: immer stärker einbrechende Aktienmärkte, wankende Banken, kriselnde Unternehmen, überschuldete Staaten. Noch ist es nicht so weit, aber die Warnzeichen werden immer deutlicher.
+
+    derart
+    : Adv  如此(这般) , 这样
+
+    gewirbelt
+    : wirbeln 
+    : Ⅰ Vi  (s) ① (水) 起旋涡 ②旋转 Ⅱ Vt  卷起, 使旋转 Ⅲ Vi  (鼓) 发出咚咚声
+
+    einbrechende
+    : einbrechen
+    : Ⅰ Vt  (用暴力) 破开, 撬开, 扒开 Ⅱ Vi  ① 闯入, 侵入 ② 闯入行窃 Ⅲ Vi  (s) ① [雅] 突然降临 ② 坍塌,倒塌 ③ 陷进,掉进去 ④ [俗] 遭到失败
+
+    wankende
+    : wanken
+    : Ⅰ Vi  (s) 蹒跚地走, 踉跄 Ⅱ Vi  ① 摇摆, 摇晃 ② 动摇, 踌躇, 迟疑
+
+    @Redemittel
+    : Die heutigen Turbulenzen beim Öl haben die Finanzmärkte derart durcheinander gewirbelt.
+    : Zustände wie nach der Lehman-Krise kommen sehen
+
+
+## Zahlreiche Belastungen für die Wirtschaft
+
+Noch bevor irgendjemand irgendetwas von einem Coronavirus gehört hat, hatten sich die Aussichten für die Weltwirtschaft bereits eingebtrübt. Nach vielen Jahren großer Wohlfahrtsgewinne insbesondere in den Industriestaaten zeigten sich zuletzt die Grenzen des Wachstums: Die Kosten für den Verbrauch der Natur hatten viele Konzerne und Staaten nicht auf dem Zettel. Der dafür notwendige Umbau der Wirtschaft kostet viel Geld. Geld, das im Konjunkturabschwung nicht mehr sehr reichlich vorhanden ist.
+
+    eingebtrübt
+    : 失去光泽
+
+    Wohlfahrt
+    : f  幸福, 福利, 康乐
+
+    Wachstum
+    : n  -s, o.Pl  ① 生长, 发育 ② 增长, 发展
+
+    Verbrauch
+    : m  -(e) s, (专业用语) ¨- e ① 消费, 消耗量 ②损耗, 磨损
+
+    Konjunkturabschwung
+    : Konjunktur
+    : f  -, -en〈经〉① 总的经济情况,经济发展 ② (商业的) 景气, 繁荣
+
+    reichlich 
+    : Ⅰ Adj  丰富的, 充裕的, 绰绰有余的 Ⅱ Adv  很, 相当
+
+    vorhanden
+    : Adj  现有的, 存在的 : ～ sein有, 存在
+
+    @Redemittel
+    : auf dem Zettel haben
+
+
+![Wie gefährlich ist das neue Coronavirus? (imago / Science Photo Library)](https://www.deutschlandfunk.de/media/thumbs/7/7564538df764dab55a78b1a8ccc2016av2_abs_555x185_b3535db83dc50e27c1bb1392364c95a2.png?key=bb39d7)
+
+Dass in diesen Abschwung hinein die zunächst völlig unterschätzte Coronakrise Störungen bei Lieferketten und Produktion verursacht, die Geschäftsmodelle vieler Unternehmen bedroht und ganze Regionen lahmlegt, musste eigentlich schon alle Verantwortlichen in Politik und Zentralbanken wachrütteln. Dass nun aber auch noch die Finanzmärkte verrücktspielen und ein Ölkrieg vom Zaun gebrochen wird, muss die Tatkraft aller wecken, die Instrumente gegen eine neue Wirtschaftskrise in der Hand halten.
+
+    hinein
+    : Adv  进去, 向里去
+
+    zunächst 
+    : Ⅰ Adv  ①首先 ②目前, 暂时 Ⅱ Präp  (支配第三格) 在⋯ 附近, 紧挨⋯
+
+    völlig
+    : Adj  完全的,充分的 : ～ rechthaben 完全正确
+
+    unterschätzte
+    : unterschätzen
+    : Vt  低估
+
+    verursacht
+    : verursachen
+    : Vt  引起, 造成
+
+    lahmlegt
+    : lahmlegen
+    : Vt  使停顿, 使瘫痪
+
+    wachrütteln
+    : V.t. 1·推醒 2·[转]使醒悟
+
+    Zaun
+    : m  -(e) s, ¨-e 篱笆, 栅栏
+
+    Tatkraft
+    : f. unz. 精力, 活力, 能力
+
+    wecken
+    : Vt  唤醒, 唤起
+
+    @Redemittel
+    : die Instrumente in der Hand halten
+
+
+## Die Politik muss mehr tun
+
+Die US-Notenbank hat bereits reagiert und die Zinsen gesenkt. Die Europäische Zentralbank kann das kaum noch, weil ihr der Spielraum fehlt. Hier rächt sich jetzt, dass die EZB in den guten Jahren keine Anstrengung unternommen hat, die Zinsen wieder anzuheben.
+
+    Notenbank
+    : f  (货币) 发行银行
+
+    Zins
+    : m  -es, -en  ① (常用复数)利息 ② 租金
+    : zinsen
+    : V.i. [史]纳贡, 进贡, 缴税
+
+    rächt
+    : rächen
+    : Vt /V refl  ① 为⋯ 报仇, 复仇 ②报复
+
+    Anstrengung
+    : f  -, -en  紧张,努力, 费力
+
+    anzuheben
+    : anheben * Vt  ① 提起, 举起 ② 提高(物价、工资等)
+
+
+So richten sich die Blicke auf die Politik, allen voran auf die Regierung der wichtigsten Volkswirtschaft Europas, auf die deutsche. Doch wer ein starkes Konjunkturpaket erwartet hatte, sieht sich nach den Beschlüssen des Koalitionsausschusses von gestern Abend eines besseren belehrt. Allenfalls Trippelschritte sind das, was da auf den Weg gebracht wurde. Da muss schnellstens nachgebessert werden. Zeit spielt hier eine Rolle. Sonst ist die Krise schneller da, als es die Gemütlichkeit einer Großen Koalition erlaubt.
+
+    richten 
+    : Ⅰ Vt  ①对准, 指向 ②弄直, 校准 ③竖起, 安装 ④ 准备, 整理 Ⅱ V refl  ① 对准, 指向 ② 按⋯ 行事, 取决于 ③ 自杀 Ⅲ Vi  审判, 判决
+
+    voran
+    : Adv  ①前面, 在前面 ②向前, 朝前: imme rlangsam ～ ! 别匆忙!
+
+    Beschlüssen
+    : Beschluß
+    : m  ⋯ schlusses, ⋯schlüsse ① 决定, 决议 ②(无复数) 结束, 完结
+
+    Koalitionsausschusses
+    : Koalition
+    : f  -, -en  (党派、国家之间的) 联合, 联盟,同盟
+    : Ausschuß
+    : m  ⋯ schusses, ⋯ schüsse ① 委员会, 理事会 ② (无复数) 废品, 次品
+
+    belehrt
+    : belehren
+    : Vt  ① 教导 ② 劝导
+
+    allenfalls
+    : Adv  ① 至多, 充其量 ② 也许,必要时
+
+    Trippelschritte
+    : 三步
+
+    nachgebessert
+    : nachbessern
+    : V.t. 修补, 修理(运输中发生的损坏)
+
+
+Der Volle Beitrag befindet sich auch an <https://www.deutschlandfunk.de/corona-krise-und-oelpreisschock-es-droht-eine-neue.720.de.html?dram:article_id=472099>.
+
+
+## Qellen
+
+- 袖珍德汉汉德词典
+- 新德汉词典
+- PONS Großwörterbuch Deutsch als Fremdsprache
+
+
