@@ -1,9 +1,9 @@
 ---
 layout: post
 date:   2020-03-10 16:28:00 +0100
-title:  "PILOTPROJEKT! HERMES ZAHLT 30 CENT PRO STÜCK"
-topics: "Wie Nachbarn mit Paket-Annahme Geld verdienen können"
-categories: [中文, "Kommentare und Themen der Woche"]
+title:  "Wie Nachbarn mit Paket-Annahme Geld verdienen können"
+topics: "PILOTPROJEKT! HERMES ZAHLT 30 CENT PRO STÜCK"
+categories: [中文, "Wirtschaft"]
 ---
 
 - Quelle: BILD
