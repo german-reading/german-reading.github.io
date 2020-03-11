@@ -1,0 +1,107 @@
+---
+layout: page
+title: Guide
+permalink: /guide/
+---
+
+**1.**  **下载****GitHub desktop****，**
+
+资源https://pan.baidu.com/s/1luAFF8gGddWFqgbq-_X0cg 提取码：5xdj
+
+**2.**  **下载完毕，双击文件安装**
+
+![img](/assets/media/clip_image001.jpg)
+
+**3.**  **安装完成，登录（****sign in to Github.com****）**
+
+![img](/assets/media/clip_image002.png)
+
+**账号及密码** 添加微信 johannhuang 索取。
+
+![img](/assets/media/clip_image003.jpg)
+
+ 
+点击”continue”
+
+![img](/assets/media/clip_image004.jpg)
+
+![img](/assets/media/clip_image005.jpg)
+点击finish，完成登录
+
+**4.**  **开始克隆文件库**
+
+点击”Clone a repository from the Internet”
+
+![img](/assets/media/clip_image012.png)
+
+进入小窗，选择URL页面
+
+![img](/assets/media/clip_image007.jpg)
+
+在第一栏中输入：https://github.com/johannhuang/reading.german.johannhuang.com.git
+
+在第二“Local path”中，选择本地的某个文件夹，(以后文件的上传与同步在该文件夹里进行)
+
+点击clone
+
+![img](/assets/media/clip_image008.png)
+
+此时出现以下界面，前期设置完成。接下来上传文件
+
+![img](/assets/media/clip_image009.jpg)
+
+
+**5.**  **上传文件步骤**
+
+（1）将您的整理作品进行编辑，在Typora源代码界面的首行添加如下内容：
+
+	---
+	layout: post
+	date:  xxxx（年）-xx（月）-xx（日） xx:xx:xx（时间） +0800（时区）
+	title: "xxxxx xxxx xxxxxxxxxxxxx xxxxx"
+	topics: "xxx xxxxxx xxxxxxxxx"
+	categories: [中文, "Kategorie"]
+	---
+
+示例如下：
+
+![img](/assets/media/clip_image010.jpg)
+
+建议编辑文档时首先加上这部分内容，便于统一命名
+
+	命名格式如下：年-月-日-标题
+
+例
+![img](/assets/media/clip_image011.jpg)
+
+（2）在刚刚设置的Local path中发现并进入 **“****reading.german.johannhuang.com”** 文件夹，点进“**_posts**”文件夹，在其中创建自己的文件夹，（命名建议使用自己姓名）
+
+例如：trial
+
+![img](/assets/media/clip_image013.png)
+
+（3）将刚刚编辑完成的md文件移入个人的文档
+
+例如，将“2020-03-04-Corona bremst die Weltwirtschaft.md”文件移入trial文档：
+
+![img](/assets/media/clip_image015.png)
+
+（4）进入GitHub desktop，自动出现以下界面：
+
+![img](/assets/media/clip_image016.png)
+
+在橙色框内任意填入备注后，点击commit to master，随即点击Push origin上传
+
+![img](/assets/media/clip_image017.png)
+
+Push成功后，即可在
+
+https://github.com/johannhuang/reading.german.johannhuang.com/tree/master/_posts
+
+看到自己的md文件，或在
+
+https://reading.german.johannhuang.com/
+
+看到自己的文章
+
+感谢观看！
