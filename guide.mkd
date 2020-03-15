@@ -45,7 +45,7 @@ permalink: /guide/
 
 ![img](/assets/media/clip_image007.jpg)
 
-在第一栏中输入：https://github.com/johannhuang/reading.german.johannhuang.com.git
+在第一栏中输入：https://github.com/german-reading/german-reading.github.io.git
 
 在第二“Local path”中，选择本地的某个文件夹，(以后文件的上传与同步在该文件夹里进行)
 
@@ -103,11 +103,11 @@ permalink: /guide/
 
 Push成功后，即可在
 
-https://github.com/johannhuang/reading.german.johannhuang.com/tree/master/_posts
+https://github.com/german-reading/german-reading.github.io/tree/master/_posts
 
 看到自己的md文件，或在
 
-https://reading.german.johannhuang.com/
+https://german-reading.github.io/
 
 看到自己的文章
 
