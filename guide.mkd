@@ -4,6 +4,13 @@ title: Guide
 permalink: /guide/
 ---
 
+## 中文版协作指南
+
+本协作项目网站采用GitHub Pages Jekyll生成，因此为了有效协作需要对相关技术进行简单学习。
+
+网站中文章使用MarkDown语法书写，推荐使用Typora编辑器进行编辑（也可以使用Windows自带的 记事本 软件）。
+文章上传更新使用Git工具，推荐使用GitHub Desktop客户端。
+
 **1.**  **下载****GitHub desktop****，**
 
 资源https://pan.baidu.com/s/1luAFF8gGddWFqgbq-_X0cg 提取码：5xdj

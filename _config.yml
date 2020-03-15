@@ -19,19 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Reading German
-email: johann.qiang.huang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A cooperative blog for publishing German posts for reading.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://reading.german.johannhuang.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://german-reading.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
-twitter_username: johannhuang_com
-# github_username:  johannhuang
-telegram_username: johannhuang
 
 disqus:
-  shortname: johannhuang-german-reading
-google_analytics: UA-100876107-7
+  shortname: github-german-reading
+google_analytics: UA-160623614-1
 
 # Build settings
 theme: minima
