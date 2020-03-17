@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-03-16 12:00:00 +0100
-title:  "“这不是假期” || „Es ist keine Ferienzeit“"
+title:  "„Es ist keine Ferienzeit“ // “这不是假期”"
 topics: "Landeselternschaft zu Notbetreuung"
 categories: [中文, "Interview"]
 ---
