@@ -60,7 +60,7 @@ Ein Stau in einer Großstadt, es geht kaum **vorwärts**. Ein Szenario, **für**
 
 „Vernetzte Autos **sind auf dem** **Vormarsch** – **von** den Unterhaltungssystemen **über** die GPS-Navigation **bis zur** WLAN-Verbindung. Die Zahl der vernetzten Fahrzeuge **wächst** von Jahr zu Jahr.“
 
-Sagt Skanda Vivek, Physiker am Georgia Gwinnett College in den USA. <u>Zwar</u> verspricht die Vernetzung einiges, **etwa*** **in puncto autonomes Fahren**. <u>Doch</u> zugleich ist sie ein **Einfall**stor für **ungebetene Gäste** – für Hacker und Datendiebe.
+Sagt Skanda Vivek, Physiker am Georgia Gwinnett College in den USA. <u>Zwar</u> verspricht die Vernetzung einiges, **etwa** **in puncto autonomes Fahren**. <u>Doch</u> zugleich ist sie ein **Einfall**stor für **ungebetene Gäste** – für Hacker und Datendiebe.
 
 * auf dem Vormarsch sein
 
