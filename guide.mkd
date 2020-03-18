@@ -11,7 +11,7 @@ permalink: /guide/
 网站中文章使用MarkDown语法书写，推荐使用Typora编辑器进行编辑（也可以使用Windows自带的 记事本 软件）。
 文章上传更新使用Git工具，推荐使用GitHub Desktop客户端。
 
-**1.**  **下载****GitHub desktop****，**
+**1.**  **下载GitHub desktop**
 
 资源https://pan.baidu.com/s/1luAFF8gGddWFqgbq-_X0cg 提取码：5xdj
 
@@ -27,7 +27,7 @@ permalink: /guide/
 
 ![img](/assets/media/clip_image003.jpg)
 
- 
+
 点击”continue”
 
 ![img](/assets/media/clip_image004.jpg)
@@ -81,7 +81,7 @@ permalink: /guide/
 例
 ![img](/assets/media/clip_image011.jpg)
 
-（2）在刚刚设置的Local path中发现并进入 **“****reading.german.johannhuang.com”** 文件夹，点进“**_posts**”文件夹，在其中创建自己的文件夹，（命名建议使用自己姓名）
+（2）在刚刚设置的Local path中发现并进入 “reading.german.johannhuang.com” 文件夹，点进“**_posts**”文件夹，在其中创建自己的文件夹，（命名建议使用自己姓名）
 
 例如：trial
 
