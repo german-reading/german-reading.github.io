@@ -143,11 +143,96 @@ Der Dezember war der heißeste seit Beginn der **Aufzeichnungen** in Australien,
 
 ---
 
-Fortsetzung folgt
+### Klimamodelle noch nicht gut genug
 
-to be continued
+<u>Was hier auffällt, ist</u> die große **Diskrepanz** zwischen Beobachtungen und Klimasimulationen. Man könnte dar**aus** **folgern**: Ja, es gibt einen klaren Trend der Intensivierung von Feuerwetter und Waldbränden in Südostaustralien. Aber der Klimawandel hat gar keinen so großen Anteil daran – und damit auch der Mensch nicht. Das sei aber ein **Irrtum**, sagt Geert Jan van Oldenborgh, Klimaforscher beim Niederländischen Wetterdienst und Erstautor der neuen Studie:
 
- 
+„Wir haben acht verschiedene Klimamodelle benutzt und mit den Wetteraufzeichnungen verglichen. Dabei konnten wir sehen: Sie alle unterschätzen, wie sehr der Klimawandel Hitzewellen verstärkt. Das ist ein Problem. Denn hohe Temperaturen sind der wichtigste Faktor beim Feuerwetter. Je heißer es ist, desto stärker trocknet die **Vegetation** aus und umso **eher** **<u>gerät</u>** sie **<u>in</u> Brand**. Die heutigen Modelle sind also noch nicht gut genug, um uns zu sagen, wie stark der Klimawandel das Risiko für Feuerwetter wirklich erhöht.“
+
+* Was hier auffällt, ist ...
+
+  auffällig ist ...
+
+* die Diskrepanz zwischen ...
+
+  discrepancy, 差异
+
+* aus ... folgern
+
+  deduce from ..., 从...推断
+
+* der Irrtum
+
+  der; -s, -··er：mistake, 错误
+
+  * sich mit/in ... irren
+
+    *sich in der Richtung irren*
+
+* die Vegetation
+
+  vegetation, 植被
+
+  *die Vegetation austrocknen*
+
+* eher
+
+  more likely, 更可能
+  
+* in ...(A.) geraten
+
+  陷入...，处于...
+
+  *in Brand geraten*
+
+---
+
+### Prognosen vermutlich noch <u>untertrieben</u>
+
+Laut dem niederländischen Physiker läuft inzwischen eine Studie, die klären soll, warum die Klimamodelle **hinter der Realität herhinken** – und warum sie Treibhausgase als Verstärker von Hitzewellen offenbar systematisch unterschätzen. Nach den Analysen waren die jüngsten Waldbrände in Südostaustralien ein Ausnahme**ereignis**. Die Wahrscheinlichkeit, dass der Feuerwetter-Index wieder einen so hohen Wert wie 2019 erreicht, <u>liege</u> derzeit nur <u>bei</u> drei Prozent. Das könnte sich aber ändern. Bei einer globalen Erwärmung von zwei Grad Celsius seien extreme Waldbrände wie **zuletzt** mindestens um den Faktor vier wahrscheinlicher, **so die Forscher**. Allerdings **stützt sich** auch diese Prognose **auf** die **unzulänglichen** Klimamodelle – und könnte **insofern** ebenfalls eine Untertreibung sein.
+
+* untertreiben
+
+  understate, 低估，轻描淡写
+
+* hinter herhinken (+D.)
+
+  lag behind...，落后于...
+
+  *hinter der Realität herhinken*
+
+* das Ereignis
+
+  event, 大事记
+
+* zuletzt
+
+  last, 最后
+
+* so die Forscher
+
+  according to the researchers
+
+* sich auf ... stützen
+
+  rely on ..., 依靠...
+
+* unzulänglich
+
+  inadequate, 不足的
+
+  * zulangen: reach，足够，达到
+
+* insofern
+
+  to that extent，在那个程度上
+
+
+
+
+
+
+
 
 
 
