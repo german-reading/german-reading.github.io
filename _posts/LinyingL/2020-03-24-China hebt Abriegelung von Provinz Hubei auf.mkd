@@ -1,0 +1,56 @@
+---
+layout: post
+date:   2020-03-24 12:00:00 +0100
+title:  "China hebt Abriegelung von Provinz Hubei auf"
+topics: "Covid-19"
+categories: [中文, "Politik"]
+---
+
+- Quelle: ZEIT ONLINE, dpa, tgr, 24. März 2020, 8:58 Uhr
+- Kommentator: Linyin Li
+- Sprachniveau: C1
+
+
+Zwei Monate lang war die zentralchinesische Provinz Hubei, wo der Ausbruch der Coronavirus-Pandemie mutmaßlich begann, streng abgeriegelt. Nun sollen erste Beschränkungen wie Reiseverbote allmählich aufgehoben werden. Wie die Lokalregierung von Hubei mitteilte, sollen Menschen die Provinz ab Mittwoch um Mitternacht wieder verlassen dürfen. In Wuhan gilt die Beschränkung noch bis 8. April – erst dann dürfen die Menschen die Metropole wieder verlassen.  
+
+    der Ausbruch 爆发
+    etwas kommt zu Ausbruch 某事突然爆发
+
+Voraussetzung für die Reisefreiheit ist, dass die Menschen über einen "grünen Code" verfügen, wonach sie als gesund eingestuft werden. In der Provinz Hubei hatten faktisch rund 60 Millionen Menschen unter Zwangsquarantäne gestanden. Besonders streng waren die Regeln in Wuhan, wo Millionen Menschen über Wochen überhaupt nicht mehr auf die Straße gehen durften.
+Insgesamt seien bislang 427 importierte Fälle festgestellt worden, so die chinesischen Behörden. Nach offiziellen Angaben starben bis Dienstag 3.277 Menschen an der durch das Virus ausgelösten Krankheit Covid-19. Insgesamt wurden auf dem chinesischen Festland 81.171 Infizierte registriert, von denen sich bislang mehr als 73.000 wieder erholt haben. 
+
+    德国媒体质疑中国的死亡数据，所以这里用了根据官方数据一词。
+
+China hatte es ab 23. Januar verboten, Wuhan zu betreten oder zu verlassen. In den folgenden Tagen wurde die Festlegung auch auf den Großteil der restlichen Provinz ausgeweitet. In Hubei hat es seit mehr als einer Woche kaum neue Infektionen gegeben. 
+Um auch einen weiteren Anstieg von aus dem Ausland eingeschleppten Coronavirus-Infektionen zu verhindern, sollen künftig in der chinesischen Hauptstadt Peking alle Ankommenden ausnahmslos auf das Virus getestet werden. Gelten soll die Regelung ebenfalls ab Mittwoch und zwar auch für alle, die von Peking aus weiterreisen.
+
+德国网友评论
+
+Vielleicht sollte man dazu sagen
+Dass die trotzdem noch immer weit eingeschränkter sind als es wir zur Zeit sind. Es wird noch mindestens 4 Wochen brauchen, bis die das alles tun dürfen, was wir jetzt tun dürfen. Und danach noch viele Monate bis es halbwegs Normalzustand gibt.
+相比于现在我们需要更多限制措施。到我们被允许所有事；我们现在被允许做的事至少还需要四个星期（感觉是病句）。到差不多恢复正常还需要几个月。
+
+Ich vermute mal, dass diese konsequenten Methoden und Maßnahmen in China entscheidend zum Erfolg, zur Eindämmung des Virus beigetragen haben. Ich bin wahrlich kein Freund von Diktaturen. Doch ich frage mich, was man hier, im spezifischen Fall einer solchen Pandemie, von China ggf. lernen könnte.
+我猜测一下，中国这些具有结果性的方法和措施决定性有助于成功和控制疫情。我不是专制政权的朋友。但是我在这里自问，人们可以在这场疫情中从中国学到什么。
+
+"Wie eben im TV behauptet wurde, dass das Corona-Virus bisher noch nicht mutierte, platzt mir der Kragen über die Verbreitung solchen Unsinns."
+Das Problem hierbei ist, dass es ein Widerspruch gibt, zwischen dem, wie in der Wissenschaft der Begriff verwendet wird, und dem wie diese in der breiten Bevölkerung verwendet wird. Eine Mutation wäre erst einmal nur eine Änderung einer einzelner Nukleinsäuren im Genom. Das passiert sehr häufig, ist aber zumeist ohne Konsequenzen. Wenn eine normale Person fragt, ob das Virus mutiert, dann ist die eigentliche Frage dahinter, ob der Virus seine Eigenschaften ändert (z.B. gefährlicher oder ungefährlicher wird, sich durch die Änderung keine Immunität aufbauen lässt, etc.).
+Wenn also jemand frägt, ob das Virus mutiert, können beide Antworten korrekt sein, je nach Kontext der Frage.
+大概是在讲病毒突变。
+
+Unwahrscheinlich das es nur Propaganda ist.
+China hat den Ausbruch, nach der initialen Verleugnung im Dezember und Anfang Januar, relativ ernst genommen und sogar ihr Wirtschaftswachstum riskiert für eine schnelle und radikale Eindämmung.
+Die Grundrechte wurden massive beschnitten, was schon was heißt wenn wir bedenken dass China da nie wirklich der Spitzenreiter war ^^, und die Produktion brach besonders in Hubei province, aber auch überall im Land, stark ein.
+Das alles schien die Strategie zu verfolgen dein einbruch so schnell wie möglich und radikal wie möglich einzudämmen. Und um ehrlich zu sein, es macht absolut Sinn dass dies auch funktioniert, das Virus nutzt unserer aller Gewohnheiten aus, und die hat China unterbunden, ebenso wie soziale Kontakte.
+Immerhin muss auch bedacht werden, China ist jetzt massiv im internationalen Fokus, auch gerade von der WHO und dem CDC. Vertuschen würde auffallen, genauso wie es Ende Dezember aufgefallen ist. Xi ist nicht dumm, er weiß das. Auf der anderen Seite, wenn China verkünden kann "Sie hätten das Virus besiegt" ist das ein Riesen Propaganda Gewinn.
+Deshalb, mit allen obigen Punkten, zweifle ich nicht daran dass der Ausbruch da wirklich unter Kontrolle ist. Hilft uns halt nur nicht =/
+
+    这个评论的角度很独特。
+
+Heinsberger Landrat schreibt Bittbrief an den chinesischen Staats- und Parteichef.
+"Die im Kreis verfügbaren Masken oder Schutzkittel reichten nur noch für ein paar Tage, schrieb Push am Montag in einem offenen Brief an den chinesischen Staats- und Parteichefs Xi Jinping."  https://www.welt.de/vermisch…
+Der Skandal ist nicht, dass der Landrat sich direkt an die chinesische Staatsführung wendet, sondern der Skandal ist, dass die deutsche Regierung es unterlassen hat, Vorsorge für das Gesundheitssystem zu treffen. Ein Gesundheitssystem, welches von den Verantwortlichen der Politik und in deutschen Medien immer vollmundig als das beste der Welt bezeichnet wird.
+
+    这个评论拿到了十二个赞
+    主要是在讲Heinsberg的市政委员会向中国政府写求助信的事。
+    作者认为德国政府对健康系统没有准备，没有预案，导致这样的事情发生，对于德国自诩世界最好的医疗系统来说是个丑闻。
