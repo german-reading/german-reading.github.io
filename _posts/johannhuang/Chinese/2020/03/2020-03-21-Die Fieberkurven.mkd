@@ -1,0 +1,275 @@
+---
+layout: post
+date:   2020-03-21 12:00:00 +0100
+title:  "Die Fieberkurven // 发烧曲线 - 德国新冠疫情数据报告"
+topics: "Zahlen zu Corona"
+categories: [中文, "Thema"]
+---
+
+- Quelle: Deutschlandfunk
+- Kommentator: [Johann Huang](http://www.johannhuang.com/)
+- Sprachniveau: B2
+
+
+Im Corona-Zeitalter sind wir alle zahlensüchtig: Wie viele Menschen sind in Deutschland infiziert, wie entwickeln sich die Fallzahlen, nähern wir uns italienischen Verhältnissen? Wie die Zahlen zu bewerten sind – ein Überblick.
+
+![Die Verdopplungszeit zeigt an, wie schnell sich das Virus verbreitet. Je höher die Verdopplungszeit – umso besser! (Deutschlandfunk/Andrea Kampmann)](https://www.deutschlandfunk.de/media/thumbs/c/c13a2b569d1673baffb71b5648f72bccv3_max_755x425_b3535db83dc50e27c1bb1392364c95a2.png?key=57a94d)
+
+    bewerten
+    : Vt ① 对⋯估价 ② 对⋯ 评价(或评分) , 评判
+
+    verdoppeln
+    : Ⅰ Vt 使加倍, 使倍增: die Geschwindigkeit ～ 使速度加快一倍 Ⅱ V refl 增加一倍, 加倍
+
+    @Redemittel
+    : zahlensüchtig sein
+
+
+## Zeitverlauf Deutschland
+
+Klar ist: die Werte klettern immer schneller, die Kurven zeigen steiler nach oben. Das liegt in der Natur der Viren. Wenn heute zwei Menschen infiziert sind, dann sind es in zwei Tagen vier, dann acht, nach einer Woche schon 16. Exponentielles Wachstum nennen das die Mathematiker. Und damit kann die menschliche Psyche schlecht umgehen. Anfangs verändern sich die Kurven kaum – ist alles nicht so schlimm. Dann steigen sie – das kriegen wir in den Griff. Und dann schießen sie empor – Panik. Panik ist aber ein schlechter Ratgeber – genauso wie falsche Gelassenheit.
+
+    klettern
+    : Vi (s) ① 攀缘,攀登, 爬上 ② 爬山
+
+    steil
+    : Adj 陡峭的
+
+    Wachstum
+    : n -s, o.Pl ① 生长, 发育 ② 增长, 发展
+
+    Psyche
+    : f -, -n ① 心灵, 灵魂, 精神 ② [奥]梳妆台
+
+    kriegen
+    : Vt [口] ① 得到 ② 感觉到 ③ 逮住
+
+    Krieg
+    : m -(e) s, -e ① 战争 ② 冲突, 纠纷
+
+    Griff
+    : m -(e) s, -e ① 抓, 握, 拿 ② 柄, 把手
+
+    greifen
+    : * Ⅰ Vt ① 抓, 拿 ② 捉住, 逮住 ③ 弹奏 Ⅱ Vi ① (伸手) 拿, 取 ② um sich ～蔓延
+
+    schießen
+    : * Ⅰ Vi 射击: mit Kanonen auf Spatzen ～ 小题大做 Ⅱ Vi (s) ① 疾驶, 飞奔 ② 快速生长 Ⅲ Vt ① 射, 射击 ② 〈体〉(足球) 射门
+
+    empor
+    : Adv 向上, 往上
+
+    Gelassenheit
+    : f -, o.Pl 冷静,镇静
+
+    @Redemittel
+    : Das liegt in der Natur der Viren.
+    : exponentielles Wachstum
+    : Panik ist aber ein schlechter Ratgeber – genauso wie falsche Gelassenheit.
+
+
+In Deutschland folgt die COVID-19-Epidemie dem gleichen groben Muster wie überall. Im Januar ließ sich die Zahl der Infizierten noch mit den Fingern zählen. Mit dem Karneval in Heinsberg im Februar wird die Kurve plötzlich steil, es geht um Dutzende, schnell hunderte Patienten. Und schon im März muss der Maßstab der Darstellung erneut angepasst werden, tausende haben sich nachgewiesen angsteckt. Die Kurve wird steiler und immer wieder steiler.
+
+![Die Entwicklung der Ausbreitung des Coronavirus in Deutschland (Deutschlandfunk/Andrea Kampmann)](https://www.deutschlandfunk.de/media/thumbs/8/8f05b11083680791a6d5471160265aa5v3_abs_555x312_b3535db83dc50e27c1bb1392364c95a2.png?key=401152)
+
+    nachweisen
+    : * Vt ① 证明, 证实 ② 指出,说明 ③ 介绍
+
+    einstellen 
+    : Ⅰ Vt ① 放置,安置, 存放 ② 雇用, 招收 ③ 中止, 停止 ④ 调准, 校准 Ⅱ V refl ① 出现, 来到 ② (使自己) 适应于
+
+    @Redemittel
+    : In Deutschland folgt die COVID-19-Epidemie dem gleichen groben Muster wie überall.
+    : Im Januar ließ sich die Zahl der Infizierten noch mit den Fingern zählen.
+
+
+Deshalb rechnet der Präsident des Robert-Koch-Institutes, Lothar Wieler, mit zehn Millionen Infizierten im Juni – wenn nichts getan wird. Aber alle Einschränkungen des öffentlichen Lebens zielen ja genau darauf hin, dass die Ausbreitung des Virus gebremst wird und diese Prognose eben nicht Realität wird.
+
+    einschränken
+    : Ⅰ Vt ① 紧缩,压缩 ② 限制,约束 Ⅱ V refl 节俭, 节约
+
+    Einschränkung
+    : f -, -e n ① 限制 ② 保留, 先决条件
+
+    hinzielen
+    : V.i. 旨在...; 针对　　
+
+
+## Der Ländervergleich
+
+Dass die Ausbreitung von COVID-19 nicht einfach Schicksal ist, zeigt der Vergleich der Corona-Epidemien verschiedener Länder. Als gemeinsamer Ausgangspunkt dient hier der Tag, an dem die ersten hundert Fälle registriert wurden. Der hängt natürlich auch von der Dunkelziffer im jeweiligen Land ab. Hier gibt es große Unterschiede.
+
+    Schicksal
+    : n -s,-e 命运,遭遇
+
+    Ausgangspunkt
+    : m 出发点, 起点, 开头
+
+    dienen
+    : V.i. 1·服务, 侍候, 干活 2·(jmdm. (einer Sache) dienen)服务于, 效劳于 3·(etw. dient jmdm. (einer Sache))有助于, 有利于 4·(als (或 zu) etw. dienen)充当, 用作 5·[军]服役
+
+    registrieren
+    : Vt ① 登记, 注册, 记录 ② 觉察, 注意到
+
+    Dunkelziffer
+    : f. -, -n 黑数字(官方未公布的或未掌握的统计数字)
+
+    @Redemittel
+    : Der hängt natürlich auch von der Dunkelziffer im jeweiligen Land ab.
+
+
+![Entwicklung der Corona-Fälle: 60 Tage seit Meldung der ersten 100 Fälle (Deutschlandfunk/Andrea Kampmann)](https://www.deutschlandfunk.de/media/thumbs/4/4b72555a17ddcd673a3e8e7771c6c5c4v3_abs_555x312_b3535db83dc50e27c1bb1392364c95a2.png?key=873d53)
+
+In Italien, im Iran und in den USA wurde kaum getestet und damit schien es auch lange keine Epidemie zu geben. Die Ärzte wurden überrascht, als plötzlich immer mehr Fälle von Lungenentzündung auftraten. In Deutschland wird viel, wenn auch noch nicht genug getestet. Die Dunkelziffer sollte also niedriger liegen. Ein Vergleich zwischen den verschiedenen Ländern ist aber trotz dieser Unterschiede möglich, weil es dabei weniger auf die absoluten Zahlen, als auf ihre Entwicklung ankommt.
+
+    scheinen
+    : * Vi ① 照耀,照射 ② 看来, 好像, 似乎
+
+    Lungenentzündung
+    : f 肺炎
+
+    treten
+    : * Ⅰ Vi (s) 走向 Ⅱ Vi (h/ s) 踩, 踏 Ⅲ Vt 踩, 践踏
+
+    @Redemittel
+    : Die Dunkelziffer sollte also niedriger liegen.
+    : Ein Vergleich ist möglich, weil es dabei weniger auf die absoluten Zahlen, als auf ihre Entwicklung ankommt.
+
+
+Was verrät also der Vergleich der Kurven? Am stärksten waren danach Wuhan und die Provinz Hubei betroffen. Kein Wunder, das neue Corona-Virus traf die Ärzte und Krankenhäuser unvorbereitet. Im Rest von China verläuft die Epidemie deutlich flacher. Die Abschottung Hubeis, breite Testung, Isolierung der Infizierten und Kontaktpersonen und die drastische Einschränkung des öffentlichen Lebens zeigen Wirkung.
+
+    Verrat
+    : m -(e) s, o. Pl ① 泄密, 出卖 ② 叛变, 变节
+
+    verraten
+    : * Ⅰ Vt ① 背叛, 出卖 ② 泄露 ③ 显露, 表露 Ⅱ V refl ① 泄密 ② 暴露
+
+    Ab·schot·tung
+    : die <-, -en> das Abschotten II
+
+    ab·schot·ten
+    : I. mit OBJ ▪ jmd. schottet jmdn. von etwas Akk. ab bewirken, dass keine äußeren Einflüsse auf jmdn. wirken können versuchen, die Kinder von den Folgen des Skandals abzuschotten II. mit SICH ▪ jmd. schottet sich ab keine äußeren Einflüsse zulassen und keinen Kontakt haben wollen Das Land hat sich über Jahrzehnte abgeschottet., Die Nachbarn haben sich völlig abgeschottet., Wenn ich lernen möchte, schotte ich mich am liebsten ab.
+
+    drastisch
+    : Adj ① 激烈的,猛烈的, 迅速的 ② 严厉的,极端的 ③ 粗俗的
+
+    @Redemittel
+    : Kein Wunder, das neue Corona-Virus traf die Ärzte und Krankenhäuser unvorbereitet.
+    : die drastische Einschränkung des öffentlichen Lebens zeigen Wirkung.
+
+
+![Entwicklung der Corona-Fälle, 26 Tage seit Meldung der ersten 100 Fälle (Deutschlandfunk/Andrea Kampmann)](https://www.deutschlandfunk.de/media/thumbs/8/8bca6e66be0d2f2328e9a7903c1bc03bv3_abs_555x312_b3535db83dc50e27c1bb1392364c95a2.png?key=29a5fa)
+
+Ganz anders Italien. Das Land kappte früh die Flugverbindungen nach China und fühlte sich danach offenbar sicher. Viren finden aber Wege, weil Menschen Wege finden. Lange konnte sich SARS-CoV-2 unbemerkt ausbreiten, bis im Norden Italiens die Krankenhäuser überwältigt wurden. Die Fallzahlen entwickeln sich dort ähnlich wie Anfangs in Wuhan. Das neue Coronavirus hat Frankreich, Großbritannien und Deutschland später erreicht. Aber der bisherige Verlauf ähnelt der Entwicklung in Italien.
+
+    kappen
+    : Vt ① 剪断, 砍断 ② (树枝的) 修剪 ③ (家禽的) 阉割 ④ (雄鸡) 与⋯交尾 ⑤ [口] 抓住
+
+    unbemerkt
+    : Adj 未被觉察的, 未受到注意的, 悄悄的
+
+    überwältigen
+    : Vt ① 制服, 战胜 ② (感情, 感觉) 充满, 使人感动
+
+    @Redemittel
+    : Aber der bisherige Verlauf ähnelt der Entwicklung in Italien.
+
+
+## Die Verdopplungszeit
+
+Entscheidend ist es, die Ausbreitung des Virus zu verlangsamen. Derzeit (Stand 19. März) verdoppelt sich die Zahl der Infizierten in Deutschland alle zwei Tage. Wenn die Anstrengungen greifen, wird dieser Wert immer weiter ansteigen – hohe Werte sind also gut. In China und auch in Hubei liegt er schon lange über hundert – das Virus ist praktisch gestoppt. Auch Südkorea hat die Epidemie offenbar im Griff. Und auch in Italien steigt die Verdoppelungszeit langsam an. Das zeigt, die Aussetzung des öffentlichen Lebens ist ein wirksamer Weg, um das Virus auszubremsen. Man darf aber nicht vergessen, dass diese Darstellung nichts über die Größe der Epidemie aussagt, sie beschreibt nur die Entwicklung.
+
+![Corona Verdoppelungszeit Ländervergleich (Deutschlandfunk/Andrea Kampmann)](https://www.deutschlandfunk.de/media/thumbs/0/06607eb54cb7521fae82d81c6769a539v3_abs_555x312_b3535db83dc50e27c1bb1392364c95a2.png?key=fa81d8)
+
+    anstrengen 
+    : Ⅰ Vt 使紧张,使疲劳 Ⅱ V refl 使劲, 努力,尽力
+
+    Anstrengung
+    : f -, -en 紧张,努力, 费力
+
+    greifen
+    : * Ⅰ Vt ① 抓, 拿 ② 捉住, 逮住 ③ 弹奏 Ⅱ Vi ① (伸手) 拿, 取 ② um sich ～蔓延
+
+    wirksam
+    : Adj ① 有效的 ② 有力的
+
+    @Redemittel
+    : Das zeigt, die Aussetzung des öffentlichen Lebens ist ein wirksamer Weg, um das Virus auszubremsen.
+
+
+Was die Maßnahmen in Deutschland bringen, wird sich an den Kurven erst mit einer Woche Verspätung ablesen lassen. Alle Zahlen sind ein Blick in die Vergangenheit, denn nach der Infektion braucht es ein paar Tage, bis Symptome auftreten und dann noch einmal länger, bis das Testergebnis vorliegt. Wenn die Zahlen noch ein paar Tage weiter steil ansteigen ist das unvermeidlich und kein Alarmzeichen. Soziale Distanzierung, testen und isolieren, dass alles wirkt gegen die Epidemie. Das zeigen die Erfahrungen der Länder, die in ihrem COVID-19 Ausbruch schon weiter fortgeschritten sind.
+
+    ablesen
+    : * Vt ① 读出; 看出 ② 捡, 拾
+
+    vorliegen
+    : * Vi ① 存在, 有: es liegt kein Grund zur Besorgnisvor 没有理由担心 ② (在前面) 插着, 放着
+
+    unvermeidlich
+    : Adj ① 不可避免的, 必然的 ② 不可缺少的
+
+    distanzieren
+    : Ⅰ V refl 与⋯保持距离, 疏远 Ⅱ Vt 〈体〉(比赛中) 取胜, 超过
+
+    fortgeschritten
+    : Adj. 1·先进的 2·已经过一定时期的, 处于发展后期(或后阶段)的
+
+
+Die anderen europäischen Länder befinden sich noch am Anfang ihrer COVID-19 Epidemien. Das Virus breitete sich rasch aus, die Verdoppelungszeit des Ausbruchs beträgt nur rund zwei Tage. Um das genauer zu sehen, „zoomt“ die zweite Grafik ins Geschehen hinein. In vielen Ländern gibt es noch vergleichsweise wenige Fälle. Deshalb schwanken die Verdoppelungszeiten stark. In den nächsten Tagen wird diese Darstellung aber aussagekräftiger.
+
+![Corona Verdoppelungszeit Europa (Deutschlandfunk/Andrea Kampmann)](https://www.deutschlandfunk.de/media/thumbs/c/c13a2b569d1673baffb71b5648f72bccv3_abs_555x312_b3535db83dc50e27c1bb1392364c95a2.png?key=a10944)
+
+    rasch
+    : Adj 快速的, 敏捷的
+
+    betragen
+    : * Ⅰ Vt 总计, 总数为 Ⅱ V refl 举止, 行为, 表现
+
+    schwanken
+    : Ⅰ Vi ① 摇摆,摆动 ② 不稳定, 波动 ③ 犹豫不决, 动摇 Ⅱ Vi (s) 摇摇晃晃地走, 踉跄
+
+    aus·sa·ge·kräf·tig
+    : Adj. so, dass es viel aussagt
+
+    @Redemittel
+    : Um das genauer zu sehen, „zoomt“ die zweite Grafik ins Geschehen hinein.
+    : Deshalb schwanken die Verdoppelungszeiten stark.
+
+
+## Datenquelle
+
+Grundlage sind nicht die Daten des Robert-Koch-Instituts, sondern die der Johns-Hopkins-Universität. Die berücksichtigt zusätzlich zu den offiziell bestätigten Infektionen weitere Berichte über neue Fälle und setzt auch auf mathematische Modellierung, um sich der aktuellen Situation anzunähern. Das ist allerdings mit Unsicherheiten verbunden. Beide Datenquellen haben ihre Berechtigung. Beide hinken der tatsächlichen Situation deutlich hinterher, weil zwischen einer Infektion und dem dokumentierten Testergebnis mehrere Tage liegen. Diese Unsicherheit in den Daten ist aber kein Problem, da es weniger auf die absoluten Zahlen als auf deren Entwicklung ankommt.
+
+    berücksichtigen
+    : Vt 顾及, 照顾, 考虑到, 注意到
+
+    zusätzlich
+    : Adj 附加的, 追加的, 补充的
+
+    annähern
+    : Ⅰ Vt 使靠近 Ⅱ V refl 靠近, 接近
+
+    berechtigen
+    : Vt 使⋯有资格, 给⋯ 以权利
+
+    hinken
+    : Vi ① 跛行 ② (s)一瘸一拐地走
+
+    hinterher
+    : Adv ① 在后边, 背后 ② 随后, 事后
+
+    @Redemittel
+    : auch auf mathematische Modellierung setzen
+    : Beide Datenquellen haben ihre Berechtigung.
+
+
+---
+
+Der Volle Beitrag befindet sich an <https://www.deutschlandfunk.de/zahlen-zu-corona-die-fieberkurven.2897.de.html?dram:article_id=472799>.
+
+
+## Qellen
+
+- 袖珍德汉汉德词典
+- 新德汉词典
+- PONS Großwörterbuch Deutsch als Fremdsprache
