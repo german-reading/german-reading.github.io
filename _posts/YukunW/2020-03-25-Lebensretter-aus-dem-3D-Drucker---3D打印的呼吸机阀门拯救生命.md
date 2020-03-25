@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-03-25 16:00:00 +0800
-title:  "Lebensretter aus dem 3D-Drucker - 3D打印的呼吸机阀门拯救生命"
+title:  "Lebensretter aus dem 3D-Drucker // 3D打印的呼吸机阀门拯救生命"
 highlights: "Corona-virus, 3D-Drucker"
 categories: [中文, "Interview"]
 ---
