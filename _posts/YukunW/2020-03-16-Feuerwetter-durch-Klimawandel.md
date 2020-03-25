@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-03-16 21:00:00 +0800
-title:  "Feuerwetter durch Klimawandel - 气候变化导致火灾天气？"
+title:  "Feuerwetter durch Klimawandel // 气候变化导致火灾天气？"
 highlights: "Klimawandel, Feuerwetter"
 categories: [中文, "Interview"]
 ---
