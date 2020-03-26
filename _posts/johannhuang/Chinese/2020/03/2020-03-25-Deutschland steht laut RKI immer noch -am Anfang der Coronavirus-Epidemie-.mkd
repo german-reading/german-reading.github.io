@@ -3,7 +3,7 @@ layout: post
 date:   2020-03-25 12:00:00 +0100
 title:  "Deutschland steht laut RKI immer noch „am Anfang der Coronavirus-Epidemie“ // 根据RKI的说法，德国仍然是“冠状病毒流行的开始”"
 topics: "Covid-19"
-categories: [中文, "Die Nachrichten"]
+categories: [中文, "Nachrichten"]
 ---
 
 - Quelle: Deutschlandfunk
@@ -41,6 +41,7 @@ Die amerikanische Johns Hopkins Universität geht von rund 33.000 Infizierten un
 
     ausgehen
     : V.i.(s.) 1·外出, 出门; 外出散步, 外出娱乐;<一般用现在分词>发出, 寄出 2·(von etw. (jmdm.) ausgehen)发起, 从...开始, 以...为出发点, 起因于; (散)发出 3·(auf etw. ausgehen)目的在于, 企图, 意在 4·(Vorräte 存货, Kohlen 煤, Geld 钱)耗尽, 用尽 5·(Haar 头发)脱落 6·(Farben 颜色, Stoff 布)退色, 落色 7·[口](Feuer 火, Licht 灯火)熄灭 8·告终, 了结, 结束 9·(etw. geht an jmdm. aus)[渐旧](Zorn 怒气)发泄
+
 
 ---
 
