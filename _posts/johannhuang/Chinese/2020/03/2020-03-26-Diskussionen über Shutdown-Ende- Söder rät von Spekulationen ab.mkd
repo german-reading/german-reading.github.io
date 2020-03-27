@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-03-26 12:00:00 +0100
-title:  "Diskussionen über Shutdown-Ende: Söder rät von Spekulationen ab“ // 有关结束关停的讨论：Söder建议不要进行猜测"
+title:  "Diskussionen über Shutdown-Ende: Söder rät von Spekulationen ab // 有关结束关停的讨论：Söder建议不要进行猜测"
 topics: "BAYERN"
 categories: [中文, "Nachrichten"]
 ---

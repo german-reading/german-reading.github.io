@@ -1,0 +1,348 @@
+---
+layout: post
+date:   2020-03-26 12:00:00 +0100
+title:  "Die Pandemie in Grafiken // 图说新冠肺炎传染病"
+topics: "Weltweite Entwicklung von Covid-19"
+categories: [中文, "Nachrichten"]
+---
+
+- Quelle: Spiegel, Von Patrick Stotz und Ferdinand Kuchlmayr, 27.03.2020, 20:14 Uhr
+- Kommentator: [Johann Huang](http://www.johannhuang.com/)
+- Sprachniveau: B2
+
+
+Wuhan ist längst nicht mehr die von Corona am schlimmsten betroffene Region weltweit. Wo das Virus besonders wütet, wo die Todesrate am höchsten ist und was Deutschland daraus lernen kann.
+
+    wüten
+    : Vi ① 大怒, 狂怒, 大发脾气 ② [转, 雅] 肆虐, 猖獗
+
+    @Redemittel
+    : die von Corona am schlimmsten betroffene Region
+
+![DER SPIEGEL](https://cdn.prod.www.spiegel.de/images/eb2850bb-3793-414d-810f-ee7f476a74c2_w948_r1.77_fpx28.13_fpy50.jpg)
+
+Zum Zeitpunkt des Erscheinens dieses Artikels wurden weltweit mehr als eine halbe Million Menschen positiv auf das neuartige Coronavirus getestet. Rund 25.000 sind bereits an der dadurch ausgelösten Krankheit Covid-19 gestorben. (Fortlaufend aktualisierte Zahlen finden Sie in diesem originalen Artikel.)
+
+    erscheinen
+    : * Vi (s) ① 显露出来, 出现 ② 到场, 出席, 出场 ③ 梦中出现 ④ 出版,发表 ⑤ 显得, 看起来, 觉得
+
+    fortlaufen
+    : V.i.(s.) 1·跑开, 跑掉 2·延续, 继续
+
+    fortlaufend
+    : P.I 连续的, 按顺序的
+
+    @Redemittel
+    : Zum Zeitpunkt des Erscheinens dieses Artikels
+    : auf das neuartige Coronavirus getestet werden
+    : an der dadurch ausgelösten Krankheit Covid-19 gestorben sein
+
+
+Kamen die Bilder vollständig lahmgelegten öffentlichen Lebens und hoffnungslos überforderter Krankenhäuser anfänglich noch aus dem fernen Wuhan, so folgten später erst Norditalien, dann Madrid und nun New York. Und auch in Deutschland steigt die Zahl der Infizierten und Todesopfer. Im Folgenden wollen wir die aktuelle Lage weltweit anschaulich in Zahlen und Grafiken beleuchten:
+
+    lahmlegen
+    : Vt 使停顿, 使瘫痪
+
+    überfordern
+    : Vt 对⋯ 过分要求, 苛求
+
+    Todesopfer
+    : n. 蒙难者; 流行病死亡者
+
+    anschaulich
+    : Adj 直观的, 形象的
+
+    @Redemittel
+    : aus dem fernen Wuhan
+    : die Bilder vollständig lahmgelegten öffentlichen Lebens und hoffnungslos überforderter Krankenhäuser
+    : in Zahlen und Grafiken beleuchten
+
+
+<iframe data-datawrapper-el="iframe" id="datawrapper-chart-X3wpu" scrolling="no" frameborder="0" height="685" style="width: 100%" src="//datawrapper.dwcdn.net/X3wpu/1/"></iframe>
+
+Bei der Gesamtzahl der bestätigten Infektionen liegen China, Italien und die USA nahezu gleichauf bei jeweils knapp über 80.000. Große Unterschiede gibt es allerdings im zeitlichen Ablauf. In China ist die tägliche Wachstumsrate der Neuinfektionen bereits seit grob einem Monat nahe null. Die Maßnahmen zur Eindämmung der Epidemie werden dort wieder gelockert. Wenn auch mit aller Vorsicht, um ein erneutes Ansteigen der Zahl der Neuinfektionen zu verhindern.
+
+    nahezu
+    : Adv 几乎, 将近 缝纫机
+
+    gleich|auf
+    : adv (esp SPORT) equal; gleichauf liegen to be lying equal, to be equal, to be level-pegging (Brit)
+
+    Wachstumsrate
+    : f. [经]增长率
+
+    eindämmen
+    : V.t. 1·(筑堤)拦蓄 2·[转]限制, 阻挡
+
+    @Redemittel
+    : nahezu gleichauf bei jeweils knapp über 80.00 liegen
+    : im zeitlichen Ablauf
+    : seit grob einem Monat
+    : nahe null sein
+    : die Maßnahmen zur Eindämmung der Epidemie
+    : die Maßnahmen wieder gelockert werden
+    : mit aller Vorsicht
+    : ein erneutes Ansteigen zu verhindern
+
+
+In Italien ist es gerade jüngst erst gelungen, den Anstieg der Neuinfektionen deutlich zu bremsen und in den USA gibt es dafür, wenn überhaupt, nur erste vorsichtige Anzeichen. Besorgniserregend ist die Entwicklung in der Türkei. Nachdem dort sehr lange kaum Fälle gemeldet wurden, weist das Land in der tabellarischen Übersicht aktuell den mit Abstand schnellsten Anstieg der Neuinfektionen auf. Und zwar sowohl bei den tagesaktuellen Werten, die meldebedingten Schwankungen unterliegen können und der Realität oftmals einige Tage hinterherhinken, als auch beim aussagekräftigeren Mittelwert über die Zeitspanne von sieben Tagen.
+
+    Anzeichen
+    : n -s, - ① 预兆,征兆 ② 症状 ③ 迹象
+
+    besorgniserregend
+    : Adj. 令人忧虑的, 使人担心的
+
+    weisen
+    : * Ⅰ Vt ① 使离开,驱逐: jmdm die Tür ～ 让某人出去 ② 指点, 引导 Ⅱ Vi 指点, 指向
+
+    aufweisen
+    : * Vt ① 提供,出示 ② 显示
+
+    @Redemittel
+    : in der tabellarischen Übersicht
+    : den mit Abstand schnellsten Anstieg
+    : Und zwar sowohl bei den tagesaktuellen Werten, die meldebedingten Schwankungen unterliegen können und der Realität oftmals einige Tage hinterherhinken, als auch beim aussagekräftigeren Mittelwert über die Zeitspanne von sieben Tagen.
+
+
+Generell gilt: Die Vergleichbarkeit der Infiziertenzahlen zwischen den Ländern ist eingeschränkt. Zwar fordert die WHO möglichst flächendeckende Tests, in der Realität sind die Testkapazitäten von Land zu Land jedoch unterschiedlich. Auch die Testpraxis variiert, so ist nicht einheitlich geregelt, wer überhaupt getestet wird. Und nur wer Tests durchführt, kann auch Infizierte finden. Zudem gab es in Deutschland jüngst Zweifel, ob angesichts der begrenzten Testkapazität eine zunehmende Zahl der Infizierten überhaupt noch erfasst werden kann. Ein Blick auf die Zahl der Todesfälle bietet daher ein zwar stärker verzögertes, aber im internationalen Vergleich verlässlicheres Bild.
+
+    einschränken 
+    : Ⅰ Vt ① 紧缩,压缩 ② 限制,约束 Ⅱ V refl 节俭, 节约
+
+    flächendeckend
+    : adj. 1. Versorgung etc.: countrywide, nationwide, pred. all over the country; 2. exhaustive;
+
+    regeln
+    : Vt 调整, 整顿, 处理
+
+    erfassen
+    : Vt ① 抓住, 握住 ② 领会, 理解 ③ 统计, 把⋯列入, 把⋯ 考虑进去
+
+    bieten
+    : * Ⅰ Vt ① 提供, 给予 ② 出价, 竞买, 喊价 Ⅱ V refl 出现, 呈现出
+
+    verzögern
+    : Ⅰ Vt 使延迟, 延误 Ⅱ V refl 推迟, 延迟
+
+    verlässlich
+    : (old) adj reliable; Mensch auch dependable
+
+    @Redemittel
+    : Generell gilt
+    : in der Realität
+    : von Land zu Land jedoch unterschiedlich
+    : angesichts der begrenzten Testkapazität
+
+
+<iframe data-datawrapper-el="iframe" id="datawrapper-chart-YQ5Fm" scrolling="no" frameborder="0" height="676" style="width: 100%" src="//datawrapper.dwcdn.net/YQ5Fm/1/"></iframe>
+
+Die meisten Todesfälle sind bislang mit Abstand in Italien zu verzeichnen. Wie auch bei den Fallzahlen ist hier das tägliche Wachstum in China gestoppt und in Italien wenigstens rückläufig. In vielen anderen Ländern, darunter auch Spanien, den USA und Deutschland ist dies nicht der Fall. Täglich steigt hier die Zahl der vermeldeten Todesfälle aktuell um circa 30 Prozent.
+
+    Abstand
+    : m -(e) s, ¨- e ① 距离,间隔 ② [口] 补偿费
+
+    verzeichnen
+    : Vt ① 画错, 画坏 ② [转] 歪曲 ③ 记录, 登记
+
+    wenigstens
+    : Adv 至少
+
+    vermelden
+    : V.t. 宣告, 报告
+
+
+Zuerst erreichte die Pandemie ihren Höhepunkt in China. Am 13. Februar meldete das Land mit 252 Toten seinen höchsten Tageswert. Seit Ende Februar sinken die Opferzahlen. In Europa und den USA ist der Scheitelpunkt jedoch noch nicht erreicht. Im Corona-Brennpunkt Norditalien pendelt die tägliche Zahl der Todesfälle seit einer Woche grob zwischen 600 und 700. In Spanien, den USA und Deutschland nehmen die Zahlen weiter zu. Italien hatte am 27. März erstmals fast tausend Covid-19-Tote zu beklagen - bislang mehr als jedes andere Land an einem einzigen Tag. Betrachtet man die Zahl der Fälle und den zeitlichen Verzug, so kann man vermuten, dass auf die USA ähnliches zukommt.
+
+    Opfer
+    : n -s, - ① 祭品 ② 牺牲 ③ 牺牲者,牺牲品
+
+    Scheitelpunkt
+    : m. 1·[天](飞行轨道、行星运行轨道、曲线的)顶点, 最高点; 奔赴点 2·[转]顶点, 顶峰 3·[数]极点, 顶点
+
+    Brennpunkt
+    : m ① 〈光〉焦点 ② [转] 中心 ③ [转] (某一时期人们普遍关注的) 热点
+
+    pendeln
+    : Vi (h/ s) ① 摆动,晃动 ② (乘车) 来回往返: er ist fasttäglich zwischen Bonn und Köln gependelt 他几乎每天乘车往返于波恩和科隆之间
+
+    beklagen 
+    : Ⅰ Vt ① 悲叹, 哀叹, 痛惜 ② 控告, 控诉 Ⅱ V refl 抱怨, 诉苦
+
+    bislang
+    : Adv 直到现在, 至今,迄今
+
+    betrachten
+    : Vt ① 观看,注视 ② 认为, 考虑
+
+    Verzug
+    : m -(e) s, o.Pl 拖延: in ～ geraten 延误; ohne ～ 立即; es ist Gefahr im ～ 面临危机
+
+    @Redemittel
+    : der Scheitelpunkt erreicht sein
+    : zwischen ... und .. pandeln
+    : bislang mehr als jedes andere Land an einem einzigen Tag
+
+
+<iframe scrolling="no" data-iframe-el="iframe" class="w-full h-full lazyloaded" data-src="https://interactive.spiegel.de/gra/ai2html/wissenschaft/2020/corona-tagestote-vergleich/v0/1420-corona-tote.html"></iframe>
+
+In Deutschland gab es bisher maximal 61 Todesfälle binnen eines Tages - hat es die Bundesrepublik also gar nicht so schlimm erwischt? Haben wir in Deutschland mit einer hohen Zahl an Infizierten, aber einer geringen Zahl an Todesfällen, eine außergewöhnlich niedrige Sterblichkeit? Dieser Schluss ist voreilig. Welche Entwicklung die Zahl der Todesfälle noch nehmen könnte, lässt sich erahnen, wenn man die Entwicklung in verschiedenen Ländern ab Erfassung des zehnten Todesfalls übereinanderlegt:
+
+    binnen
+    : Präp (支配第三格或第二格) 在⋯ 之内, 在⋯的过程中
+
+    erwischen
+    : Vt ① 捉拿, 逮捕 ② 当场抓获 ③ 刚好抓住 ④ (正好) 碰上, (刚好) 赶上 ⑤ 意外获得
+
+    gering
+    : Adj ① 微小的, 少量的 ② (社会) 地位低微的 ③ (质量) 低劣的
+
+    außergewöhnlich
+    : Adj 不寻常的, 特殊的
+
+    voreilig
+    : Adj 鲁莽的, 仓促的 : eine ～ e Entscheidung treffen 作出匆忙的决定
+
+    erahnen
+    : V.t. 预感到, 隐约意识到, 感觉到, 猜测到
+
+    erfassen
+    : Vt ① 抓住, 握住 ② 领会, 理解 ③ 统计, 把⋯列入, 把⋯ 考虑进去
+
+    @Redemittel
+    : binnen eines Tages
+
+
+<iframe data-datawrapper-el="iframe" id="datawrapper-chart-bzinb" scrolling="no" frameborder="0" height="491" style="width: 100%" src="//datawrapper.dwcdn.net/bzinb/1/"></iframe>
+
+Was die tägliche Entwicklung der Todesfälle angeht, zeigen sich in dieser Darstellung einige Parallelen zwischen Italien und Deutschland. Elf Tage nach Überschreiten der Schwelle von zehn Todesfällen sind in Deutschland zum Erscheinungszeitpunkt dieses Artikels 267 Todesfälle bekannt. In Italien waren es zum vergleichbaren Zeitpunkt 233 Fälle und auch das tägliche Wachstum ist auf einem ähnlichen Niveau. Aber: in Deutschland wurde früher, sehr viel umfassender getestet als in vielen anderen Ländern. Dies lässt nun zwei ganz verschiedene Schlussfolgerungen zur weiteren Entwicklung in Deutschland zu: 
+
+    angehen
+    : * Ⅰ Vt ① 涉及, 牵连 ② 攻击, 战胜 ③ 请求 Ⅱ Vi (s) ① [口] 开始 ② 点着
+
+    Parallele
+    : f -, -n ① 〈数〉平行线 ② [转] 类似的情况(事或物) : der Fall ist ohne ～ in der Geschichte这种情况在历史上是独一无二的 ③ [转] 对照, 比较, 对比: etw. mitetw. in ～ bringen 拿某事与某事相比
+
+    überschreiten
+    : * Vt ① 横穿, 越过 ② 逾越,违背 : ein Gese tz ～违法
+
+    Schwelle
+    : f -, -n ① 门槛 ② 枕木 ③ [转] 界限 ④ 〈水〉潜坝, 潜堰
+
+    Erscheinung
+    : f -, -en ① 现象, 景象 ② 人的外表, 仪表, 形象 ③ 发表, 出版 ④ 幽灵, 幻象
+
+    umfassend
+    : Adj 全面的, 包罗万象的
+
+    folgern
+    : Vt 推论, 得出结论
+
+    @Redemittel
+    : in dieser Darstellung
+    : nach Überschreiten der Schwelle von zehn Todesfällen
+    : zum Erscheinungszeitpunkt dieses Artikels
+    : das tägliche Wachstum
+    : auf einem ähnlichen Niveau
+
+
+- Deutschland könnte es durch frühzeitiges Testen außerordentlich gut gelungen sein, Infektionen zu erkennen und durch Quarantänemaßnahmen weitere Übertragungen zu verhindern. Die Zahl der täglichen Todesfälle in Deutschland könnte schon bald ihren Scheitelpunkt erreichen und der Kurvenverlauf sich abflachen.
+- Auch in Deutschland könnte eine erhebliche Dunkelziffer an unerkannten Infektionen stehen. Trotz früher und umfangreicher Tests hätte das Virus sich dann relativ lange unkontrolliert verbreiten können. Die erkannten Fälle würden nur die Spitze des Eisbergs darstellen. Bei der Zahl der Todesfälle, die verlässlicher zu ermitteln ist, könnte auch ein ähnlicher Verlauf wie in Italien nicht ausgeschlossen werden.
+
+    außerordentlich
+    : Ⅰ Adj ① 特别的, 特殊的 ② 不寻常的: ～er Professsor (缩写: a.o. Prof./ao. Prof.) 副教授 Ⅱ Adv 非常
+
+    übertragen
+    : 1 * Ⅰ Vt ① 转播, 转载, 转录:etw. live ～ 现场直播 ② 翻译, 改编 ③ 过帐, 将⋯ 转帐 ④ 给予, 交给, 委托 ⑤ 传染 Ⅱ V refl 2 Adj 转义的
+
+    erheblich
+    : Adj 巨大的, 显著的, 可观的
+
+    umfangreich
+    : Adj ① 范围广的, 广泛的 ② 内容丰富的 ③ 大规模的
+
+    verlässlich
+    : (old) adj reliable; Mensch auch dependable
+
+    ermitteln
+    : Ⅰ Vt ① 查明,确定 ② 算出 
+
+    ausgeschlossen
+    : Adj 不可能的, 无考虑余地的
+
+    @Redemittel
+    : durch frühzeitiges Testen
+    : der Kurvenverlauf sich abflachen
+    : eine erhebliche Dunkelziffer an unerkannten Infektionen stehen
+    : die Spitze des Eisbergs darstellen werden
+    : nicht ausgeschlossen werden
+
+
+Unabhängig davon gibt es einen Faktor, der Hoffnung macht und starken Einfluss auf den Kurvenverlauf ausüben dürfte: Die Gegenmaßnahmen zur Eindämmung der Pandemie wurden, gemessen an der Zahl der zum Zeitpunkt gemeldeten Todesfälle, in Deutschland früher ergriffen als beispielsweise in Spanien oder Italien (auch im Säulendiagramm weiter oben im Text zu erkennen). Wenn die Kontaktsperre in Deutschland ähnlich wirksam sein sollte wie die Ausgangssperre in Italien, dürfte Hoffnung bestehen auf ein früheres Abflachen der Kurve.
+
+    Faktor
+    : m -s, ⋯ore n ① 〈数〉因子, 因数, 系数 ② 因素, 要素 ③ (排版车间或印刷厂的) 管理人
+
+    ausüben
+    : Vt ① 从事(职业) ② 执行, 完成 ③ 施以
+
+    gemessen
+    : Adj ① 稳重的, 大方的 ② 适度的, 适中的 ③ 严格的
+
+    Säulendiagramm
+    : nt bar chart
+
+    @Redemittel
+    : Hoffnung bestehen auf ein früheres Abflachen der Kurve
+
+
+Ob es so kommt, wird sich leider erst in dem kommenden Tagen bis Wochen zeigen. Denn Maßnahmen zur Eindämmung der Corona-Pandemie zeigen sich bei der Zahl der Infizierten erst mit grob zehn Tagen Verzögerung (Inkubationszeit, plus Test-Auswertung und Meldeverzug), bei den Todesfällen erst nach grob 20 Tagen (Inkubationszeit plus durchschnittliche Krankheitsdauer bei tödlichen Verläufen).
+
+    @Redemittel
+    : wird sich leider erst in dem kommenden Tagen bis Wochen zeigen
+    : erst mit grob zehn Tagen Verzögerung
+
+
+Abschließend noch ein Aspekt, der bei datenbezogenen Auswertungen dieser Art oft vergessen wird: Wir können nur vermessen und visualisieren, wofür Daten vorliegen. Wer nicht über die technische Infrastruktur verfügt, um größere Mengen an Tests durchzuführen, der kann aktuell auch keine hohen Infektionszahlen melden und arbeitet beim Ergreifen von Gegenmaßnahmen im Ungewissen. Länder mit einer schlechteren Gesundheitsversorgung sind womöglich bereits aktuell stärker von der Corona-Pandemie betroffen, als der Blick in die Zahlen offenbart und verfügen zudem nicht über vergleichbare Mittel, um schwere Krankheitsverläufe zu behandeln. 
+
+    beziehen
+    : * Ⅰ Vt ① 盖上, 铺上 ② 采取 ③ (定期) 获得, 领取 ④ 订购, 订阅 ⑤ 迁入, 搬进 Ⅱ V refl ① 被(云层) 遮盖起来 ② 与⋯有关, 涉及,针对
+
+    auswerten
+    : Vt 充分利用, 运用
+
+    Auswertung
+    : f -, -en 充分利用
+
+    vermessen
+    : * Ⅰ Vt 测量,丈量: das Feld ～ 丈量土地 Ⅱ V refl ① 量错 ② 胆敢, 敢
+
+    vorliegen
+    : * Vi ① 存在, 有: es liegt kein Grund zur Besorgnisvor 没有理由担心 ② (在前面) 插着, 放着
+
+    womöglich
+    : Adv ① 也许, 大概, 可能 ② 尽可能, 可能的话
+
+    verfügen 
+    : Ⅰ Vt (官方)指定, 命令, 宣布决定 Ⅱ Vi ① 支配, 使用 ② 占有, 具有 : über rei-che Erfahrungen ～ 具有丰富的经验
+
+    zudem
+    : Adv 此外, 而且
+
+    @Redemittel
+    : Abschließend noch ein Aspekt
+    : im Ungewissen
+    : verfügen zudem nicht über vergleichbare Mittel
+
+
+---
+
+Der Volle Beitrag befindet sich auch an <https://www.spiegel.de/wissenschaft/medizin/coronavirus-wuhan-mailand-madrid-new-york-die-landkarte-der-pandemie-a-22cfece1-c9e6-4fab-8c08-75d9e2888c88>.
+
+
+## Qellen
+
+- 袖珍德汉汉德词典
+- 新德汉词典
+- PONS Großwörterbuch Deutsch als Fremdsprache
+- Langenscheidt Großwörterbuch Deutsch als Fremdsprache
