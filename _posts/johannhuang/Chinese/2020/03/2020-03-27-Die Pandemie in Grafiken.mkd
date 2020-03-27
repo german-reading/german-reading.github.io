@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2020-03-26 12:00:00 +0100
+date:   2020-03-27 12:00:00 +0100
 title:  "Die Pandemie in Grafiken // 图说新冠肺炎传染病"
 topics: "Weltweite Entwicklung von Covid-19"
 categories: [中文, "Nachrichten"]
