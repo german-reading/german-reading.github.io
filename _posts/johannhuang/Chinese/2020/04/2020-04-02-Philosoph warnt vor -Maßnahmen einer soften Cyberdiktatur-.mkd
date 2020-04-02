@@ -1,0 +1,103 @@
+---
+layout: post
+date:   2020-04-02 12:00:00 +0100
+title:  "Philosoph warnt vor „Maßnahmen einer soften Cyberdiktatur“ // 哲学家警告“网络独裁措施”"
+topics: "Tracking von Handydaten"
+categories: [中文, "Kultur heute"]
+---
+
+- Quelle: Deutschlandfunk, 01.04.2020
+- Kommentator: [Johann Huang](http://www.johannhuang.com/)
+- Sprachniveau: B2
+
+
+Dass zur Bekämpfung des Coronavirus auch das Tracking von Handydaten genutzt werden soll, hält der Philosoph Markus Gabriel für gefährlich. Vor der Krise sei man sich schließlich weitestgehend einig gewesen, dass diese Maßnahme „moralisch verwerflich“ sei, sagte er im Dlf.
+
+Markus Gabriel im Gespräch mit Maja Ellmenreich
+
+    @Redemittel
+    : das Tracking von Handydaten
+    : für gefährlich hält
+    : einig gewesen sein
+    : moralisch verwerflich
+
+
+![Die Corona-App app.corona.eu sollen Nutzer sich freiwillig installieren (imago)](https://www.deutschlandfunk.de/media/thumbs/6/6de6bc69096674470bc2a2efc1720bcbv1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg?key=f5543e)
+
+Es sei bemerkenswert, dass über 90 Prozent der Deutschen die Maßnahmen gegen das Coronavirus befürworten, sagte Markus Gabriel, Professor für Erkenntnistheorie und Philosophie der Neuzeit in Bonn, im Dlf. „In einer Demokratie ist es eigentlich verdächtig, wenn solche Einigkeit herrscht.“ Es gebe eigentlich eine Pflicht dazu, widerstreitende Meinungen einzuholen. Doch durch die hohe Gefahr würden nun andere Regeln gelten. Diese Einigkeit birge aber Gefahren, denn es sei ja durchaus möglich, dass die derzeitigen Maßnahmen auch das Gesundheitssystem gefährdeten. Gesundheitliche Präventionsmaßnahmen blieben schließlich auf der Strecke und auch die wirtschaftlichen Folgen könnten sich im Gesundheitssystem niederschlagen.
+
+    bergen
+    : * Vt ① 抢救, 营救 ② 打捞 ③ 隐藏, 保护 ④ 包含, 含有
+
+    Prävention
+    : f. -, -en 1·抢先, 占先 2·预防, 防止 3·威慑
+
+    niederschlagen
+    : * Ⅰ Vt ① 击倒, 打倒, 击毙 ② 镇压 ③ 使下降 ④ 使沉淀 Ⅱ V refl 沉淀, 沉积
+
+    @Redemitttel
+    : bemerkenswert sein
+    : über 90 Prozent der Deutschen
+    : der Neuzeit
+    : in einer Demokratie
+    : es ist eigentlich verdächtig, wenn ...
+    : widerstreitende Meinungen einzuholen
+    : es ist durchaus möglich, dass ...
+    : auf der Strecke
+
+
+Es sei daher sehr zu begrüßen, dass in den vergangenen Tagen auch vermehrt kritische Stimmen zu den Maßnahmen aufgetaucht sind. Eine Maßnahme, die Gabriel selbst für sehr gefährlich hält, ist das Tracking von Handydaten: „Warum tun wir etwas, das wir vorher eigentlich für moralisch verwerflich hielten, nämlich Maßnahmen einer soften Cyberdiktatur einführen?“ In einigen Staaten, wie zum Beispiel Ungarn, sei bereits klar zu sehen, dass der Ausnahmezustand als Deckmantel für undemokratische Maßnahmen genutzt werde.
+
+    vermehren
+    : Ⅰ Vt 增加, 扩大 Ⅱ V refl 繁殖,增多
+
+    nämlich 
+    : Ⅰ Adj 同一的, 同样的 Ⅱ Adv ① 即, 也就是 ② 因为
+
+    Ausnahmezustand
+    : m ① 紧急状态 ② 特殊情况
+
+    @Redemittel
+    : Es sei daher sehr zu begrüßen, dass ...
+    : in den vergangenen Tagen
+    : das Tracking von Handydaten
+    : als Deckmantel für undemokratische Maßnahmen genutzt werden
+
+
+## Nicht nur ein medizinisches Problem
+
+Man dürfe das Coronavirus zudem nicht nur als ein medizinisches Problem begreifen – auch wenn es das natürlich hauptsächlich sei. Denn das Virus sei auch ein hochkomplexes soziales Problem, das alle Dimensionen des Menschsein anspreche. Es brauche daher auch sozial- und geisteswissenschaftliche Methoden zur Untersuchung. Wenn man die Perspektiven dieser wissenschaftlichen Schulen ausklammere, dann laufe man Gefahr, dass „wir uns als Menschen nur noch sehen als potenzielle Virenträger und das wäre natürlich ein gefährlich einseitiges Menschenbild.“
+
+    ausklammern
+    : V.t. 1·[数]由括弧内提出 2·[转]排除, 不把...考虑在内
+
+    @Redemittel
+    : nur als ein medizinisches Problem begreifen
+    : es ist das natürlich hauptsächlich
+    : ein hochkomplexes soziales Problem
+    : alle Dimensionen des Menschsein ansprechen
+    : ein gefährlich einseitiges Menschenbild
+
+
+Man könne politische Entscheidungen nicht alleine naturwissenschaftlich oder technisch rechtfertigen. Ein derartiger „Wissenschaftsglauben“ sei genauso falsch wie die vollkommen überzogene Wissenschaftsskepsis von Populisten wie Donald Trump. „Wie müssen Subjektivität und Objektivität ins richtige Verhältnis setzen, und das kann man nicht durch die Wissenschaft alleine“, sagte Gabriel.
+
+rechtfertigen
+: Vt /V refl ① 辩护, 辩解 ② 表明正确, 不辜负
+: Ein derartiger „Wissenschaftsglauben“ sei genauso falsch wie die vollkommen überzogene Wissenschaftsskepsis von Populisten wie Donald Trump.
+: Subjektivität und Objektivität ins richtige Verhältnis setzen
+
+
+...
+
+---
+
+Der Volle Beitrag befindet sich auch an <https://www.deutschlandfunk.de/tracking-von-handydaten-philosoph-warnt-vor-massnahmen.691.de.html?dram:article_id=473822>.
+
+
+## Qellen
+
+- 袖珍德汉汉德词典
+- 新德汉词典
+- PONS Großwörterbuch Deutsch als Fremdsprache
+- Langenscheidt Großwörterbuch Deutsch als Fremdsprache
+- Langenscheidt Collins e-Großwörterbuch Englisch
