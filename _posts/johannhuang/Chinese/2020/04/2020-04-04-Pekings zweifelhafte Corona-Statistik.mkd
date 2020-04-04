@@ -1,0 +1,213 @@
+---
+layout: post
+date:   2020-04-03 12:00:00 +0100
+title:  "Pekings zweifelhafte Corona-Statistik // 北京的新冠统计问题"
+topics: "Geschönte Zahlen"
+categories: [中文, "Politik"]
+---
+
+- Quelle: SPIEGEL Politik, Von Georg Fahrion, 04.04.2020, 19:03 Uhr
+- Kommentator: [Johann Huang](http://www.johannhuang.com/)
+- Sprachniveau: B2
+
+Erkenntnisse der US-Geheimdienste legen nahe, dass China seine Covid-19-Statistik geschönt haben könnte. Was ist von den chinesischen Daten zu halten?
+
+@Redemittel
+: Erkenntnisse der US-Geheimdienste legen nahe, dass ...
+：Was ist von den chinesischen Daten zu halten?
+
+
+![Krankenstation in Wuhan: Rasanter Anstieg der Fallzahlen China Daily/ REUTERS](https://cdn.prod.www.spiegel.de/images/5533a73a-28fb-4418-a00c-f026d65c9324_w948_r1.77_fpx42.67_fpy50.jpg)
+
+Der Verdacht, China könnte das Ausmaß der Corona-Epidemie beschönigt haben, schien den US-Präsidenten wenig zu bekümmern. "Die Zahlen scheinen etwas leichtgewichtig, und da bin ich noch nett, wenn ich das sage", sagte Donald Trump am Mittwoch bei seinem täglichen Briefing im Weißen Haus. Um dann hinzuzufügen: "Zur Frage, ob ihre Zahlen jetzt zutreffen oder nicht: Ich bin kein Buchhalter aus China."
+
+    Verdacht
+    : m -(e) s, o. Pl 怀疑, 嫌疑: jmdn in/ im ～ haben 猜疑某人; im/ in ～stehen 受到嫌疑; ～ erregen 引起怀疑; in ～ kommen 遭受嫌疑
+
+    verdenken
+    : * Vt 责怪, 怪罪
+
+    Ausmaß
+    : n -es, -e ① 规模,大小, 体积, 面积 ② 范围, 程度, 大小
+
+    zutreffen
+    : V.i. 1·(etw. trifft zu)合乎实际, 切合实际, 对头 2·(etw. trifft für(或 auf) jmdn. (etw.) zu)适合, 适用, 针对
+
+    @Redemittel
+    : Der Verdacht schien den US-Präsidenten wenig zu bekümmern.
+    : Die Zahlen scheinen etwas leichtgewichtig.
+    : im Weißen Haus
+
+
+## "So blind wie der Rest der Welt"
+
+Zu diesem Zeitpunkt lag Trump bereits ein Bericht der US-Geheimdienste vor, der offenbar zu einem wesentlich eindeutigeren Urteil kommt. Demzufolge soll China seine Covid-19-Statistiken geschönt haben. Weit mehr Chinesen als offiziell angegeben hätten sich mit dem Virus infiziert und seien daran gestorben. Die chinesischen Zahlen seien "Fake", zitiert die Nachrichtenagentur Bloomberg mehrere anonyme US-Offizielle. Die "New York Times" legte unter Berufung auf Geheimdienstkreise nach, Chinas Regierung kenne die wahren Zahlen selbst nicht und sei in dieser Hinsicht "so blind wie der Rest der Welt".
+
+Überprüfen lassen sich diese Behauptungen nicht, denn Details und Methodik des Berichts wurden nicht öffentlich. Dennoch nährt der Befund die Skepsis, ob die chinesischen Zahlen stimmen können. Wenn Italien mit nun 115.000 Fällen auf knapp 14.000 Tote kommt - kann es dann sein, dass China mit 82.000 Fällen nur 3300 Todesopfer zu beklagen hat?
+
+vorliegen
+: * Vi ① 存在, 有: es liegt kein Grund zur Besorgnisvor 没有理由担心 ② (在前面) 插着, 放着
+
+Urteil
+: n -s, -e ① (法律用语) 判决 ② 鉴定 ③ 评价
+
+demzufolge
+: Adv. <代副词>因此, 所以
+
+nachlegen
+: V.t. 添加
+
+@Redemittel
+: Weit mehr Chinesen als offiziell angegeben
+: mehrere anonyme US-Offizielle
+: in dieser Hinsicht
+: Dennoch nährt der Befund die Skepsis, ob ...
+
+
+<iframe scrolling="no" width="100%" heigh="579px" class="w-full h-full lazyloaded" src="https://interactive.spiegel.de/int/pub/ressort/wissenschaft/2020/covid-19-spread/v0/index.html?iso=chn%2Cita%2Cdeu&amp;show=timeline"></iframe>
+
+Wie viele Menschen dort an der Seuche gestorben sind, ist nicht nur eine politisch hochbrisante Frage. Ein genaueres Bild vom Verlauf der Epidemie in China wäre wichtig, um die Ausbreitung der Seuche im Rest der Welt sowie ihre Gefährlichkeit besser verstehen zu können.
+
+Misstrauen hat erregt, dass China die Definition, wer als Corona-Fall gezählt wird, im Verlauf der Epidemie mehrfach geändert hat. Teils gab es dafür einleuchtende Erklärungen.
+
+    erregen 
+    : Ⅰ Vt ① 使激动, 使兴奋 ② 引起, 激起 Ⅱ V refl 激动, 恼怒
+
+    einleuchtend
+    : Adj 明白易懂的, 有说服力的
+
+    @Redemittel
+    : an der Seuche
+    : eine politisch hochbrisante Frage
+    : im Verlauf der Epidemie
+
+
+Zuerst wurde nur als Corona-Patient registriert, wer sowohl Symptome aufwies, als auch positiv auf den Erreger getestet wurde. In den ersten chaotischen Wochen hatte das zweifelsohne zu niedrige Zahlen zur Folge.
+
+Erreger
+: m -s,- 病原体
+
+zweifelsohne
+: Adv. [口]无疑的, 确实的
+
+@Redemittel
+: Symptome aufwies
+
+
+## Der Ansturm überwältige die Labors
+
+Gerade in Wuhan mussten überlaufene Hospitäler viele Kranke ohne Diagnose wieder nach Hause schicken. Der Ansturm überwältigte auch die Labors, denen es an Personal mangelte. Die neu entwickelten Virustests waren noch nicht ausgereift und oft unzuverlässig. Teils dauerte es bis zu sechs Stunden, bis ein Ergebnis vorlag. Seither hat sich die Wartezeit bei manchen Testkits auf eine halbe Stunde reduziert.
+
+    Ansturm
+    : m. -(e)s, ¨-e 1·冲击, 冲锋 2·蜂拥而来(的人群等); 抢购
+
+    überwältigen
+    : Vt ① 制服, 战胜 ② (感情, 感觉) 充满, 使人感动
+
+    ausreifen
+    : V.i.(s.) 完全成熟
+
+    seither
+    : Adv 自从⋯以来
+
+    @Redemittel
+    : überlaufene Hospitäler
+
+
+Um Abhilfe zu schaffen, änderten die Behörden am 12. Februar die Definition: Als bestätigte Fälle galten Patienten nun auch ohne positiven Testbefund, sofern sie die klinischen Symptome von Covid-19 aufwiesen. Als Nachweis konnte nun auch etwa ein CT-Scan der Lunge dienen. Daraufhin schnellte die Zahl an einem einzigen Tag um mehr als 15.000 Neuinfektionen in die Höhe.
+
+Dieser rasante Anstieg der Fallzahlen war peinlich für das Regime. Er entfiel gerade noch in die Regentschaft des planlos agierenden Jiang Chaoliang, der tags darauf als Parteisekretär der Provinz Hubei abgelöst wurde. Von seinem Nachfolger Ying Yong, zuvor Bürgermeister von Shanghai, erhoffte sich die Führung ein effektiveres Krisenmanagement.
+
+    Abhilfe
+    : f -, o.Pl ① 消除 ② 纠正 ③ 援助
+
+    sofern
+    : Konj 如果, 假如, 只要
+
+    Regentschaft
+    : f. -, unz. 摄政, 摄政期间
+
+    zuvor
+    : Adv 以前, 事先, 首先
+
+    @Redemittel
+    : an einem einzigen Tag
+    : ein effektiveres Krisenmanagement
+
+
+Eine Woche nach Yings Antritt änderte sich die Definition erneut. Da inzwischen die Testkapazitäten ausgebaut worden waren, sollten wiederum nur Patienten mit Symptomen und positivem Testbefund als bestätigte Fälle gelten. In China rief diese Entscheidung so große Unruhe hervor, dass das Gesundheitskomitee von Hubei sich gezwungen sah, sie wieder zu kassieren.
+
+Erst seit vergangenem Mittwoch führt China nun auch sogenannte asymptomatische Infektionen in seiner Statistik auf. Das betrifft Patienten, die zwar positiv getestet wurden, aber keine Anzeichen der Krankheit zeigen.
+
+    gezwungen
+    : Adj 被迫的,勉强的, 拘束的
+
+
+![Improvisiertes Krankenhaus in Wuhan China Daily/ REUTERS](https://cdn.prod.www.spiegel.de/images/4b04e09e-9337-4501-a6c2-73cc5d8fac56_w718_r1.5772451631533353_fpx49.44_fpy49.99.jpg)
+
+Man muss der chinesischen Führung zugutehalten, dass sie auf eine sich rasch wandelnde Lage zu reagieren hatte. Genauso steht aber fest, dass Staatschef Xi Jinping von seinen Untergebenen erwartete, den von ihm ausgerufenen "Volkskrieg" gegen das Virus zu gewinnen.
+
+@Redemittel
+: auf eine sich rasch wandelnde Lage zu reagieren
+: Genauso steht aber fest, dass ...
+
+
+## Die Zahlen sollen sinken - also sinken sie
+
+Chinas Kader befinden sich in einer verzwickten Lage: Einerseits hat Ministerpräsident Li Keqiang sie davor gewarnt, Neuinfektionen zu verstecken, nur um die Statistik aufzuhübschen. Andererseits erwartet Peking, dass die Zahl der Neuinfektionen annähernd bei null liegt.
+
+    verzwickt
+    : Adj. [口]棘手的, 难办的, 错综复杂的
+
+    annähern 
+    : Ⅰ Vt 使靠近 Ⅱ V refl 靠近, 接近
+
+
+> "Werke mussten ihre Maschinen laufen lassen, selbst wenn sie gar nichts produzierten"
+
+Der Druck, politische Direktiven zu erfüllen, führt in autoritären Systemen wie China nicht selten dazu, dass untere Ebenen nur solche Daten nach oben melden, die ihre Vorgesetzten sehen wollen. Oft genug glaubt die Führung in Peking ihren eigenen Statistiken nicht.
+
+    @Redemittel
+    : in autoritären Systemen wie ...
+    : untere Ebenen
+    : nach oben melden
+
+
+Auch während der Coronakrise haben Ökonomen versucht, sich anhand alternativer Indikatoren ein Bild von der Lage zu machen. Um die Schwere des Wirtschaftseinbruchs zu analysieren, haben sie etwa das verringerte Verkehrsaufkommen in Chinas Städten, die Feinstaubbelastung oder den CO2-Ausstoß herangezogen.
+
+<iframe scrolling="no" width="100%" heigh="399px" src="https://interactive.spiegel.de/gra/ai2html/wissenschaft/2020/infektionskurve/Infektionskurve.html"></iframe>
+
+Manche Kader haben daraufhin an den Ersatzindikatoren herumgedoktert: Mindestens drei Städte in der Provinz Zhejiang schrieben Fabriken Anfang März einen Mindest-Stromverbrauch vor, um ein Wiederaufblühen der Konjunktur vorzutäuschen. Werke mussten ihre Maschinen laufen lassen, selbst wenn sie gar nichts produzierten.
+
+
+## Bewohner in Wuhan holen die Asche ihrer Angehörigen ab
+
+Große Aufmerksamkeit erregte ein Artikel des Magazins "Caixin": Dessen Reporter besuchten ein Krematorium in Wuhan, wo aus dem Hausarrest entlassene Einwohner nun die Asche ihrer Angehörigen abholen dürfen, die während der Epidemie verstorben sind.
+
+Dort begegneten die Journalisten einem Lastwagenfahrer, der ihnen freimütig erzählte, er habe in nur zwei Tagen 5000 Urnen angeliefert. Offiziellen Angaben zufolge sind in Wuhan 2535 Menschen an Covid-19 gestorben. Dazu kam, dass die Urnenlieferung an nur ein einziges Krematorium ging - Wuhan betreibt mindestens sieben.
+
+    zufolge
+    : Präp (置于名词后支配第三格, 偶尔置于名词前则支配第二格) 依据, 按照:einem Bericht ～ 根据报道; ～dieses Befehls 按照这一命令
+
+
+Es ist unklar, wie viele Urnen tatsächlich ausgegeben wurden und wie viele Einäscherungen tatsächlich erfolgt sind. Auch sagen sie nichts über die Todesursache derer aus, die eingeäschert wurden. Seit die Seuche in Wuhan ausgebrochen ist, sind dort Menschen ja nicht nur an Covid-19 gestorben, sondern, wie in normalen Zeiten, auch an Altersschwäche, Krebs, Herzinfarkten und anderen Erkrankungen und Unfällen.
+
+Es ist mit an Sicherheit grenzender Wahrscheinlichkeit so, dass die offiziellen Zahlen deutlich zu niedrig sind. In welchem Umfang, bleibt ein Rätsel. 
+
+    einäschern
+    : V.t. 1·烧成灰烬 2·火葬
+
+...
+
+---
+
+Der Volle Beitrag befindet sich auch an <https://www.spiegel.de/politik/ausland/corona-faelle-in-china-pekings-zweifelhafte-zahlen-a-295ef443-5df3-406b-acff-360746eb27be>.
+
+
+## Qellen
+
+- 袖珍德汉汉德词典
+- 新德汉词典
+- PONS Großwörterbuch Deutsch als Fremdsprache
+- Langenscheidt Großwörterbuch Deutsch als Fremdsprache
+- Langenscheidt Collins e-Großwörterbuch Englisch
