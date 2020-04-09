@@ -1,0 +1,55 @@
+---
+layout: post
+date:   2020-03-25 12:00:00 +0100
+title:  "Deutschland steht laut RKI immer noch „am Anfang der Coronavirus-Epidemie“ // 根据RKI的说法，德国仍然是“冠状病毒流行的开始”"
+topics: "Covid-19"
+categories: [中文, "Nachrichten"]
+---
+
+- Quelle: Deutschlandfunk
+- Kommentator: [Johann Huang](http://www.johannhuang.com/)
+- Sprachniveau: B2
+
+
+![Das Foto zeigt das Robert Koch-Institut, RKI, in Berlin. (imago / Reiner Zensen)](https://www.deutschlandfunk.de/media/thumbs/6/607fb110a0804b41985aec916349bb8fv1_max_720x405_b3535db83dc50e27c1bb1392364c95a2.jpg?key=5cb178)
+
+Deutschland steht nach den Worten des Präsidenten des Robert Koch-Instituts, Wieler, erst am Anfang der Epidemie.
+
+    @Redemittel
+    : nach den Worten des Präsidenten
+    : am Anfang stehen
+
+
+Wieler sagte in Berlin, es sei völlig offen, wie diese sich entwickele. Auch die Zahl der Todesfälle werde steigen. In Deutschland hat es bislang im Vergleich zu anderen europäischen Ländern weniger Tote gegeben. Wieler sagte, dies liege zum Teil daran, dass von Anfang an breit getestet worden sei. Auch seien nicht so viele alte Menschen erkrankt.
+
+    bislang
+    : Adv. <地区>直到现在, 迄今
+
+    @Redemittel
+    : die Zahl der Todesfälle
+    : dies liege zum Teil daran, dass ...
+    : von Anfang an
+
+
+Nach Angaben des RKI gibt es nachweislich 31.554 Corona-Infektionen, über 4.000 Fälle mehr als gestern. Die Zahl der Toten stieg von 114 auf 149.
+
+    nachweislich
+    : Adj. 可证明的, 可证实的; 有据可查的, 确凿的
+
+
+Die amerikanische Johns Hopkins Universität geht von rund 33.000 Infizierten und 159 Todesopfern in Deutschland aus. Die unterschiedlichen Zahlen sind unter anderem darauf zurückzuführen, dass verschiedene Daten als Grundlage verwendet werden.
+
+    ausgehen
+    : V.i.(s.) 1·外出, 出门; 外出散步, 外出娱乐;<一般用现在分词>发出, 寄出 2·(von etw. (jmdm.) ausgehen)发起, 从...开始, 以...为出发点, 起因于; (散)发出 3·(auf etw. ausgehen)目的在于, 企图, 意在 4·(Vorräte 存货, Kohlen 煤, Geld 钱)耗尽, 用尽 5·(Haar 头发)脱落 6·(Farben 颜色, Stoff 布)退色, 落色 7·[口](Feuer 火, Licht 灯火)熄灭 8·告终, 了结, 结束 9·(etw. geht an jmdm. aus)[渐旧](Zorn 怒气)发泄
+
+
+---
+
+Der Volle Beitrag befindet sich auch an <https://www.deutschlandfunk.de/covid-19-deutschland-steht-laut-rki-immer-noch-am-anfang.1939.de.html?drn:news_id=1114044>.
+
+
+## Qellen
+
+- 袖珍德汉汉德词典
+- 新德汉词典
+- PONS Großwörterbuch Deutsch als Fremdsprache

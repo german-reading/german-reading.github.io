@@ -1,0 +1,187 @@
+---
+layout: post
+date:   2020-04-01 12:00:00 +0100
+title:  "Wie tödlich ist das Coronavirus? // 新冠病毒有多致命？"
+topics: "病毒有多致命？"
+categories: [中文, "Investigativ"]
+---
+
+- Quelle: tagesshau.de, Stand: 01.04.2020 08:26 Uhr, Von Nico Heiliger, Pascal Kiss, Ulrich Lang, Jochen Schäfer und Johannes Schmid-Johannsen, SWR
+- Kommentator: [Johann Huang](http://www.johannhuang.com/)
+- Sprachniveau: B2
+
+
+Wie viele mit dem Coronavirus infizierte Menschen an der Krankheit Covid-19 sterben werden, ist ungewiss. Klar ist aber: Die Pandemie wird auch in Deutschland weitere Opfer fordern. Eine Datenanalyse zeigt, wie tödlich das Virus ist.
+
+    ungewiss
+    : ▲ adj uncertain; (= vage) vague;
+
+    Opfer
+    : n -s, - ① 祭品 ② 牺牲 ③ 牺牲者,牺牲品
+
+
+Für die kommenden Wochen rechnet der Präsident des Robert Koch-Instituts (RKI), Lothar Wieler, mit mehr Todesfällen. "Die Sterberaten werden zunehmen", sagte er in dieser Woche auf der Pressekonferenz des RKI. Der Zeitpunkt ist kein Zufall: Vor zwei Wochen ist die Zahl der Infizierten stark gestiegen. Die meisten schwer erkrankten Patienten liegen bereits mehr als zwei Wochen auf Intensivstationen - oft sogar länger. Durch die Intensivbehandlung sterben Patienten mit einem schweren Verlauf zu einem späteren Zeitpunkt. Das heißt: Auf die hohe Anzahl von Infizierten folgt einige Wochen später eine hohe Anzahl von Todesfällen. Diese Entwicklungen konnten Virologen bereits in anderen Ländern wie Italien und China beobachten, in denen sich das Virus schon früher ausgebreitet hat.
+
+    Zufall
+    : m -s, ¨-e ① (常用复数) [旧] 偶然 ② 偶然事件, 意外的事
+
+    Intensivstation
+    : f 特护病房
+
+    @Redemittel
+    : zunehmen werden
+    : stark gestiegen sein
+    : in dieser Wochen
+    : auf der Pressekonferenz
+    : die meisten schwer erkrankten Patienten
+    : auf Intensivstationen liegen
+
+## Süddeutschland besonders betroffen bislang
+
+Die Karte zeigt, dass der Süden Deutschlands mit Bayern und Baden-Württemberg bislang besonders betroffen ist. Hier ist das Virus als erstes in Deutschland mit ganzer Wucht angekommen und fordert bereits viele Opfer. Es hat sich hier sehr schnell ausgebreitet. Durch die direkte Nähe zur Schweiz, zum Elsass (Frankreich) und Risikogebieten in Österreich und Südtirol (Italien) haben sich in Baden-Württemberg und Bayern vergleichsweise viele Menschen früh angesteckt.
+
+    Wucht
+    : f -, -e n ① (无复数) 重量, 力量, 压力, 冲击力 ② (无复数) [俗] 殴打 ③ [俗] 一大堆, 大量
+
+    @Redemittel
+    : viele Opfer fordern
+    : durch die direkte Nähe zur Schweiz, zum Elsass und Risikogebieten in Österreich und Südtirol
+
+### Todesfälle pro 100.000 Einwohner
+
+Die rot bis schwarz markierten Landkreise haben eine verhältnismäßig hohe Anzahl von Verstorbenen zu verzeichnen. Die Karte zeigt die Todesfälle im Verhältnis zur Größe eines Landkreises. (Datenstand aufgrund des Meldeverzugs an das RKI 27. bis 30. März)
+
+    verhältnismäßig
+    : Adj ① 按比例的 ② (修饰形容词或副词) 相对地, 比较
+
+    verzeichnen
+    : Vt ① 画错, 画坏 ② [转] 歪曲 ③ 记录, 登记
+
+    Verhältnis
+    : n -ses, -se ① 比例 ② 关系 ③ 情况,境况
+
+    @Redemittel
+    : im Verhältnis zur Größe eines Landkreises
+
+
+<iframe title="Todesfälle pro 100.000 Einwohner" aria-label="Deutschland landkreise (2016) Choropleth Karte" id="datawrapper-chart-gK2bd" src="//datawrapper.dwcdn.net/gK2bd/1/" scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 634px;" height="700"></iframe>
+
+Auch im Kreis Heinsberg in NRW, in dem die Infektionen sehr schnell vorgeschritten sind, sind bereits viele Todesfälle zu verzeichnen. In vielen anderen Bundesländern hat sich das Virus erst ein bis zwei Wochen später stark ausgebreitet. Deshalb steigt vor allem in Baden-Württemberg und Bayern momentan die Zahl der Toten vergleichsweise schnell an. Virologen erwarten für viele weitere Bundesländer in den nächsten Wochen aber einen ähnlich hohen Anstieg.
+
+    vorgeschritten
+    : adj advanced; im vorgeschrittenen Alter at an advanced age; zu vorgeschrittener Stunde at a late hour
+
+    @Redemittel
+    : im Kreis Heinsberg in NRW
+    : einen ähnlich hohen Anstieg erwarten
+
+
+## Mehr Patienten mit schweren Erkrankungen
+
+Immer mehr Patienten in Deutschland müssen wegen einer schweren Erkrankung durch das Coronavirus auf Intensivstationen behandelt werden. Vor allem ältere Menschen sind von den schweren, tödlichen Verläufen betroffen. Erste Krankheitswellen in deutschen Senioren- und Pflegeheimen weisen darauf hin, dass sich nun auch immer mehr ältere Menschen infiziert haben.
+
+    hinweisen
+    : * Ⅰ Vt 向⋯ 指出, 指明 Ⅱ Vi指出, 指向
+
+    Hinweis
+    : m -es, -e 指点,暗示, 提示
+
+
+<iframe title="So viele Menschen, die mit dem Virus infiziert waren, sind verstorben" aria-label="Interactive line chart" id="datawrapper-chart-NMQE3" src="//datawrapper.dwcdn.net/NMQE3/2/" scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 566px;" height="600"></iframe>
+
+Laut dem Virologen Christian Drosten kann sich das Virus auch in Pflegeheimen und Krankenhäusern vergleichsweise gut ausbreiten, weil es besonders ansteckend ist. In Frankreich haben sich beispielsweise viele Pflegekräfte infiziert und das Virus unbemerkt unter den Patienten in den Krankenhäusern verbreitet.
+
+    Laut
+    : m -(e) s, -e ① 声音 ② 〈语〉语音, 音素
+
+    laut
+    : 1 Adj 大声的, 吵闹的, 嘈杂的 2 Präp (支配第二格或第三格) (官方用语) 按照,根据
+
+
+## Ältere Menschen besonders gefährdet
+
+Ab dem 50. Lebensalter steigt das Risiko, durch eine Infektion mit dem neuen Coronavirus zu sterben. Studien aus China haben schon früh gezeigt, dass bis zu 20 Prozent der gemeldeten Infizierten der Über-80-Jährigen an dem Virus sterben. Das zeigen mittlerweile auch die Daten aus Deutschland. Ältere Menschen haben oft mehrere Vorerkrankungen, die das Risiko erhöhen. Dazu gehören laut Weltgesundheitsorganisation vor allem Bluthochdruck, Krebserkrankungen, Diabetes, ein geschwächtes Herz-Kreislaufsystem und Lungenerkrankungen sowie Asthma.
+
+    gefährden
+    : Vt 损害, 危害, 危及
+
+    Bluthochdruck
+    : m high blood pressure
+
+    Krebs
+    : m -es, -e ① (常用复数) 蟹, 虾 ② 〈医〉癌, 恶性肿瘤
+
+    Diabetes
+    : m -, o.Pl 〈医〉糖尿病, 多尿症
+
+    Asthma
+    : n -s, o. Pl 〈医〉哮喘
+
+    schwächen
+    : Vt ① 使衰弱, 使虚弱 ② 削弱, 减弱
+
+    @Redemittel
+    : Ab dem 50. Lebensalter
+    : eine Infektion mit dem neuen Coronavirus
+    : an dem Virus
+    : das Risiko erhöhen
+
+
+<iframe title="Todesfälle nach Altersgruppen in Deutschland" aria-label="Säulen" id="datawrapper-chart-2qgZC" src="//datawrapper.dwcdn.net/2qgZC/1/" scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 594.986px;" height="600"></iframe>
+
+Vor allem bei älteren Menschen ist das Immunsystem geschwächt. Infizierte, die jünger als 50 Jahre sind, landen bisher selten auf deutschen Intensivstationen. Die meisten leiden unter chronischen Vorerkrankungen. Das meldet zum Beispiel die Uniklinik Freiburg, die bereits eine große Expertise mit der Behandlung von COVID19-Patienten aufgebaut hat.
+
+    @Redemittel
+    : unter chronischen Vorerkrankungen leiden
+
+
+## Bislang vor allem Jüngere infiziert
+
+Laut Robert Koch-Institut (RKI) haben sich bisher vergleichsweise viele jüngere Menschen mit dem neuen Coronavirus infiziert - vor allem Ski-Urlauber in Risikogebieten wie in Südtirol oder Besucher von Fastnachtsfeiern Ende Februar. Hier haben sich vor allem jüngere Menschen angesteckt und dann in ihrem sozialen Umfeld vor allem auch wieder gleichaltrige Verwandte, Freunde und Bekannte infiziert.
+
+    Fastnacht
+    : f -, o.Pl 〈宗〉圣灰星期三的前夕, 狂欢节
+
+    @Redemittel
+    : in ihrem sozialen Umfeld
+    : gleichaltrige Verwandte, Freunde und Bekannte
+
+
+<iframe title="Nachgewiesene Infektionen nach Altersgruppen in Deutschland" aria-label="Säulen" id="datawrapper-chart-gUum5" src="//datawrapper.dwcdn.net/gUum5/4/" scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 594.986px;" height="600"></iframe>
+
+## Wie hoch ist die Wahrscheinlichkeit, dass ein Infizierter stirbt?
+
+Virologen und Mediziner können während einer Pandemie nur schätzen, wie viel Prozent der Infizierten durch das neue Coronavirus sterben. Das liegt an der hohen Dunkelziffer von Infizierten, die gar nicht erkannt werden. Vier von fünf Infizierten haben vermutlich nur leichte Symptome und werden deshalb nicht getestet. Außerdem werden in Deutschland Menschen oft nur getestet, wenn sie mit bereits positiv getesteten Menschen Kontakt hatten oder in einem Risikogebiet waren. Die Gesundheitsämter können aber seit mehreren Wochen viele Infektionen nicht mehr auf einzelne Kontaktpersonen zurückführen. Es ist also unklar, wo und wie sich die Infizierten angesteckt haben. Das spricht dafür, dass zunehmend Infizierte nicht mehr erkannt und erfasst werden. Die deutschen Labore kommen beim Testen mittlerweile an ihre Kapazitätsgrenzen.
+
+    erfassen
+    : Vt ① 抓住, 握住 ② 领会, 理解 ③ 统计, 把⋯列入, 把⋯ 考虑进去
+
+
+Experten kritisieren: Die Zahl der bestätigten Neuinfektionen verliert deshalb in Deutschland an Aussagekraft. Fehlt ein Teil der Infizierten in der Statistik, werden die Todesfälle überschätzt. Deshalb nennen wir an dieser Stelle keine Prozentzahlen - also keine aktuellen Zahlen, wie hoch der Anteil der infizierten Patienten ist, die durch das neue Coronavirus sterben. Deutsche Virologen schätzen, dass zwischen 0,3 und 0,7 Prozent der Infizierten durch das Virus in Deutschland sterben könnten. Diese Zahlen sind Schätzungen und können im Nachhinein höher oder geringer ausfallen.
+
+Hinweis: Alle Grafiken sind automatisiert und aktualisieren sich selbständig, sobald aktuellere Zahlen vorliegen.
+
+    überschätzen
+    : Vt 对⋯ 评价过高, 过高估计
+
+    Nach·hi·nein
+    : ▪ im Nachhinein (↔ im Voraus): nach einer bestimmten Zeit oder nach einer bestimmten Handlung Die Verträge wurden im Nachhinein akzeptiert., Im Nachinein muss ich zugeben, dass ich mich geirrt habe.
+
+    @Redemitttel
+    : an Aussagekraft verlieren
+
+
+...
+
+---
+
+Der Volle Beitrag befindet sich auch an <https://www.dw.com/de/coronavirus-stoppen-mit-handy-tracking/a-52967805>.
+
+
+## Qellen
+
+- 袖珍德汉汉德词典
+- 新德汉词典
+- PONS Großwörterbuch Deutsch als Fremdsprache
+- Langenscheidt Großwörterbuch Deutsch als Fremdsprache
+- Langenscheidt Collins e-Großwörterbuch Englisch

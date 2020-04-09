@@ -1,0 +1,115 @@
+---
+layout: post
+date:   2020-04-03 12:00:00 +0100
+title:  "Internet und Toilettenpapier: Kuriose Gemeinsamkeit dank Coronavirus // 互联网和卫生纸：缘因冠状病毒的奇怪共性"
+topics: "CORONAVIRUS"
+categories: [中文, "News"]
+---
+
+- Quelle: Inside Digital, 31. März 2020, Thorsten Neuhetzki
+- Kommentator: [Johann Huang](http://www.johannhuang.com/)
+- Sprachniveau: B2
+
+
+Noch nie wurde bei Google so viel nach den Begriffen Toilettenpapier und Klopapier gesucht, wie in den vergangenen Tagen. Auch der Begriff Internet wird häufiger gesucht. Doch Toilettenpapier und das Internet haben noch eine andere interessante Parallele.
+
+    @Redemittel
+    : bei Google nach den Begriffen gesucht werden
+    : in den vergangenen Tagen
+
+
+![Toilettenpapier im Einkaufswagen, Bildquelle: Pixabay](https://www.inside-digital.de/img/toilettenpapier-im-einkaufswagen-1200x900.jpg)
+
+In diesen Tagen gibt es für viele von uns nicht nur die bange Frage, ob und wann es wieder Klopapier gibt, sondern auch, ob das Internet den derzeitigen Anforderungen durch das Coronavirus standhält.
+
+Zur Frage des Internet haben die Kollegen des WDR und der Wissenssendung Quarks eine Grafik veröffentlicht. Unter der Überschrift „Darum gibt es keine Probleme mit deiner Internetverbindung“ zielen unsere Kollegen vom Westdeutschen Rundfunk darauf ab, dass es ausreichend Kapazität im Internet gibt, so dass du keine Auswirkungen spürst. Dennoch kann es gut sein, dass deine Internet-Leitung an der ein oder anderen Stelle ruckelt und langsamer ist, als sonst.
+
+    ab·zie·len
+    : ohne OBJ ▪ etwas zielt auf etwas Akk. ab mit einer bestimmten Absicht auf etwas gerichtet sein Die Maßnahmen zielen auf einen Abbau der Arbeitslosigkeit ab.
+
+    ruckeln
+    : ohne OBJ ▪ jmd./etwas ruckelt (an etwas Dat. ) (umg.) etwas mit einem leichten Ruck hin- und herbewegen
+
+    @Redemittel
+    : im Einkaufswagen
+    : für viele von uns
+    : die bange Frage
+    : den derzeitigen Anforderungen standhält
+    : ausreichend Kapazität im Internet
+    : keine Auswirkungen spürst
+    : an der ein oder anderen Stelle
+    : als sonst
+
+
+<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-0" src="https://www.instagram.com/p/B-WNoZnqkea/embed/captioned/?cr=1&amp;v=12&amp;wp=658&amp;rd=https%3A%2F%2Fwww.inside-digital.de&amp;rp=%2Fnews%2Finternet-toilettenpapier-gemeinsamkeit-dank-coronavirus#%7B%22ci%22%3A0%2C%22os%22%3A1212.2749999980442%2C%22ls%22%3A1166.979999979958%2C%22le%22%3A1209.4550000037998%7D" allowtransparency="true" allowfullscreen="true" frameborder="0" height="1132" data-instgrm-payload-id="instagram-media-payload-0" scrolling="no" style="background: white; max-width: 658px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;" data-gtm-yt-inspected-8532524_42="true"></iframe>
+
+
+## INTERNET UND TOILETTENPAPIER: ES RUCKELT AUF DEN LETZTEN METERN
+
+Genau hier ist die Parallele zum Toilettenpapier zu sehen, die wir ziehen, um das Phänomen plastisch zu erklären. Nach einhelligen Angaben, sind die Lager des Lebensmittelhandels voll. Sei es Mehl, Nudeln oder eben Toilettenpapier: Alles sei vorhanden. Dennoch sind die Regale im Supermarkt oftmals leer.
+
+Der Grund: Es gibt nicht genügend Logistik-Kapazität, um die hohe Nachfrage im Supermarkt um die Ecke zu decken, obwohl im Zentrallager genug vorhanden ist. In der Parallele bedeutet das, dass „das Internet“ am Zentralknoten DE-CIX mehr als ausreichend Kapazität bereithält, der Weg bis zu deinem Modem aber durchaus Engpässe aufweisen kann. Das kann ein zu langsamer Anschluss, ein überlasteter Server, ein vollgelaufener Peering-Point oder überbuchte Anschlussbereiche sein.
+
+    ein·hel·lig
+    : <nicht steig.> Adj. (geh.) übereinstimmend Wir sind einhellig der Meinung, dass ...
+
+    vorhanden
+    : Adj 现有的, 存在的 : ～ sein有, 存在
+
+    @Redemittel
+    : das Phänomen plastisch zu erklären
+    : die Regale im Supermarkt
+    : oftmals leer sein
+    : genügend Logistik-Kapazität
+    : die hohe Nachfrage im Supermarkt um die Ecke zu decken
+    : im Zentrallager
+    : in der Parallele
+    : am Zentralknoten
+    : der Weg bis zu deinem Modem
+    : durchaus Engpässe aufweisen kann
+    : ein zu langsamer Anschluss
+    : ein überlasteter Server
+    : ein vollgelaufener Peering-Point
+    : überbuchte Anschlussbereiche
+
+
+## ZENTRALER INTERNET-KNOTEN HAT NOCH VIEL KAPAZITÄT FREI
+
+Bis zu 16,5 Tbit/s könnte der zentrale Austauschknoten in Frankfurt übertragen. Es ist nur einer von vielen Knotenpunkten. Der bisherige Spitzenwert lag bei 9,1 Tbit/s. Das durchschnittliche Datenvolumen am DE-CIX ist durch die Corna-Krise, vermehrtes Homeoffice und Streaming-Dienste nach Angaben des Betreibers um etwa zehn Prozent gestiegen.
+
+Dabei seien insbesondere 100 Prozent mehr Videokonferenzen festgestellt worden. CDN-Dienste sind um 50 Prozent stärker nachgefragt. Dabei handelt es zumeist um gestreamte Videos von großen Plattformen, über Content Delivery Networks. Das sind spezielle Netze, die Inhalte dezentral verbreiten. Und auch die Zahl der Benutzer von Online-Spielen habe sich verdoppelt.
+
+Eng werde es im Knoten in Frankfurt so bald nicht. Selbst wenn alle Unternehmen in Europa Home-Office machen würden und parallel die (inzwischen verschobene) Fußball-EM stattfinden würde, sei genügend Bandbreite vorhanden heißt es seitens der Betreiber.
+
+zumeist
+: Adv [罕] 多半, 大多, 大部分
+
+selbst 
+: Ⅰ Pron (指示代词, 不变化) 自己, 亲自, 本身 Ⅱ Adv 甚至,即使
+
+seitens
+: Präp (支配第二格)从⋯ 方面, 在⋯ 方面: ～ des Kläger swurde folgendes vorgebracht 原告方面提出下列事实
+
+@Redemittel
+: nur einer von vielen sein
+: Der bisherige Spitzenwert lag bei 9,1 Tbit/s.
+: vermehrtes Homeoffice und Streaming-Dienste 
+: um etwa zehn Prozent gestiegen sein
+: Inhalte dezentral verbreiten
+: die Zahl der Benutzer von Online-Spielen habe sich verdoppelt
+: seitens der Betreiber
+
+...
+
+---
+
+Der Volle Beitrag befindet sich auch an <https://www.inside-digital.de/news/internet-toilettenpapier-gemeinsamkeit-dank-coronavirus>.
+
+
+## Qellen
+
+- 袖珍德汉汉德词典
+- 新德汉词典
+- PONS Großwörterbuch Deutsch als Fremdsprache
+- Langenscheidt Großwörterbuch Deutsch als Fremdsprache
+- Langenscheidt Collins e-Großwörterbuch Englisch
