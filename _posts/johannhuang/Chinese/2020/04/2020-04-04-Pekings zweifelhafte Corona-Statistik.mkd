@@ -12,9 +12,9 @@ categories: [中文, "Politik"]
 
 Erkenntnisse der US-Geheimdienste legen nahe, dass China seine Covid-19-Statistik geschönt haben könnte. Was ist von den chinesischen Daten zu halten?
 
-@Redemittel
-: Erkenntnisse der US-Geheimdienste legen nahe, dass ...
-：Was ist von den chinesischen Daten zu halten?
+    @Redemittel
+    : Erkenntnisse der US-Geheimdienste legen nahe, dass ...
+    ：Was ist von den chinesischen Daten zu halten?
 
 
 ![Krankenstation in Wuhan: Rasanter Anstieg der Fallzahlen China Daily/ REUTERS](https://cdn.prod.www.spiegel.de/images/5533a73a-28fb-4418-a00c-f026d65c9324_w948_r1.77_fpx42.67_fpy50.jpg)
