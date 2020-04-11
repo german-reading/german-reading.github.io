@@ -68,8 +68,9 @@ Anders als auf der Erde sind aber nicht nur die **Achsneigung** und deren konsta
   * bemerkbar 
 
     noticeable, 引人注目的
+    
+    
 
----
 
 ![Auf der Erde gibt es Jahreszeiten, weil die Erdachse geneigt ist (NASA)](https://www.deutschlandfunk.de/media/thumbs/2/289a7111071443c35333f431eb3bbe30v1_abs_555x313_b3535db83dc50e27c1bb1392364c95a2.jpg?key=36c2a9)
 
