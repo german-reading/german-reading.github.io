@@ -74,12 +74,12 @@ Eine Vermisstenanzeige aus München-Schwabing ist jetzt dem Netz in die Finger g
 
 In Aussicht wird ein Finderlohn gestellt, den es vor der Krise in dieser Form so nicht gegeben hätte. Dort heißt es: „Schoko Oder Alkohol zum Überstehen der Corona-Ödnis. Je nach Alter“. Wir hoffen sehr, dass eine gute Seele die Puppe gefunden hat und der Besitzerin übergeben kann. Der in Aussicht gestellte Finderlohn hat es schließlich in sich.
 
-@Redemittel
-: etwas vor der Kriese in dieser Form so nicht gegeben hätte
-: zum Überstehen der Corona-Ödnis
-: Je nach Alter.
-: eine gute Seele
-: der in Aussicht gestellte Finderlohn
+    @Redemittel
+    : etwas vor der Kriese in dieser Form so nicht gegeben hätte
+    : zum Überstehen der Corona-Ödnis
+    : Je nach Alter.
+    : eine gute Seele
+    : der in Aussicht gestellte Finderlohn
 
 ---
 
