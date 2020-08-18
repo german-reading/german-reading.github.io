@@ -1,4 +1,6 @@
-*.code-workspace
+~*
++*
+_+*
 
 _site
 .sass-cache
